@@ -71,8 +71,6 @@ USA, France, Japan and Tunisia.
 
 * Since October 2017 I have worked remotely from Rostov-on-Don in Russia.
 
-<<<
-
 [[Synchronoss]]
 == Synchronoss, Dublin, Ireland
 
@@ -109,11 +107,13 @@ product suite for mobile telecommunications providers.
 * Introduced the bill-of-materials concept to ensure consistency in the use of 3rd party libraries across all
   core services and shared libraries.
 
-=== Technologies & Tools
-
-Java, Groovy, Spring, Spring Boot, Spring Cloud, Spring Security, JAX-RS (Jersey), Eureka, Docker,
-Cucumber, Cassandra, MySQL, Oracle, Memcached, RabbitMQ, SwiftMQ, MacOS, Linux
-Git, Maven, Gradle, JIRA, Bamboo, Confluence, Stash, AsciiDoctor, Docbook
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java, Groovy
+| Frameworks:                 | Spring, Spring Boot, Spring Cloud, Spring Security, JAX-RS (Jersey), Eureka, Docker
+| Target{nbsp}Environments:   | Docker, AWS, Cassandra, MySQL, Oracle, Memcached, RabbitMQ, SwiftMQ, MacOS, Linux
+| Development{nbsp}Tools:     | Git, Maven, Gradle, JIRA, Bamboo, Confluence, Stash, AsciiDoctor, Docbook, Cucumber, Sonar
+|===
 
 [[THBS]]
 == Torry Harris Business Solutions, Dublin, Ireland
@@ -153,12 +153,13 @@ for business customers (https://advantagemanager.eir.ie).
 * Created RESTful and SOAP web services to support user provisioning by internal order processing systems and external
   vendor platforms.
 
-=== Technologies & Tools
-
-Java, JavaScript, Ruby, PHP, Spring, Spring Security, Spring Security SAML, Spring Web Services,
-Thymeleaf, Smarty Templates, jQuery, AngularJS, Bootstrap, SimpleSAMLphp,
-Redhat Linux, Windows Server, Tomcat, SQL Server, MySQL, OpenAM, OpenDJ, Memcached, Postfix,
-IntelliJ, Git, Maven, Grunt, Jenkins, Chef, Vagrant, Docbook
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java, JavaScript, Ruby, PHP
+| Frameworks:                 | Spring, Spring Security, Spring Security SAML, Spring Web Services, Thymeleaf, Smarty Templates, jQuery, AngularJS, Bootstrap, SimpleSAMLphp
+| Target{nbsp}Environments:   | Redhat Linux, Windows Server, Tomcat, SQL Server, MySQL, OpenAM, OpenDJ, Memcached, Postfix
+| Development{nbsp}Tools:     | IntelliJ, Git, Maven, Grunt, Jenkins, Chef, Vagrant, Docbook
+|===
 
 [[Daon]]
 == Daon, Dublin, Ireland
@@ -177,10 +178,13 @@ biometric and multi-factor authentication to secure banking transactions on mobi
 * Introduced the Jasmine test framework to unit test the server-side JavaScript scripts
   that glued together many of the modules of the IdentityX server component.
 
-=== Technologies & Tools
-
-Java, JavaScript, Spring, Jasmine, Redhat Linux, Windows Server, Tomcat,
-Oracle, SQL Server, MySQL, Eclipse, Subversion, Maven, Ant, Jenkins
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java, JavaScript
+| Frameworks:                 | Spring, Jasmine
+| Target{nbsp}Environment:    | Redhat Linux, Windows Server, Tomcat, Oracle, SQL Server, MySQL
+| Development{nbsp}Tools:     | Eclipse, Subversion, Maven, Ant, Jenkins
+|===
 
 [[Realex]]
 == Realex Payments, Dublin, Ireland
@@ -204,10 +208,13 @@ Control 2 and Hosted Payments Page.
 * Designed and implemented the integration with alternative payment methods (e.g.
   PayPal) and exchange rate quoting using Spring Integration.
 
-=== Technologies & Tools
-
-Java, JavaScript, Spring, Spring Security, Spring Integration, Thymeleaf,
-Apache Jackrabbit, myBatis, Memcached, Redhat Linux, SpringSource tcServer, SQL Server
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java, JavaScript
+| Frameworks:                 | Spring, Spring Security, Spring Integration, Thymeleaf, Apache Jackrabbit, myBatis,
+| Target{nbsp}Environments:   | Redhat Linux, SpringSource tcServer, SQL Server, Memcached
+| Development{nbsp}Tools:     | Eclipse, Maven
+|===
 
 [[Fujitsu2]]
 == Fujitsu, Dublin, Ireland
@@ -221,9 +228,9 @@ Implemented document management features of Road Transport Operator Licencing ap
 
 === Software Engineer (Contract) | January - October 2012
 
-I was a member of an Agile team that developed and maintained Newbay's SyncDrive product. SyncDrive is
-a white label application offered to mobile phone operators to allow users synchronize content between their PCs, mobile
-devices and cloud based storage.
+I was a member of an Agile team that developed and maintained Newbay's SyncDrive product. SyncDrive is a white label
+application offered to mobile phone operators to allow users synchronize content between their PCs, mobile devices and
+cloud based storage.
 
 === Achievements
 
@@ -234,9 +241,13 @@ devices and cloud based storage.
   primarily to eliminate inherent race conditions in the synchronization process. I had the secondary goal of
   making it possible to write unit tests.
 
-=== Technologies & Tools
-
-Objective-C, CoreData, Cocoa, OSXFUSE, OCMock, Growl, MacOS X 10.6+, XCode 4, Perforce, JIRA, Confluence, Bamboo, Nexus, Maven
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Objective-C
+| Frameworks:                 | CoreData, Cocoa, OSXFUSE, OCMock, Growl
+| Target{nbsp}Environments:   | MacOS X 10.6+
+| Development{nbsp}Tools:     | XCode 4, Perforce, JIRA, Confluence, Bamboo, Nexus, Maven
+|===
 
 [[LeasePlan]]
 == LeasePlan, Dublin, Ireland
@@ -258,44 +269,53 @@ experience and address security concerns raised by external auditors.
 
 * Addressed performance issues when proxying remote content (car images) provided by 3rd party systems by introducing caching and image scaling
 
-=== Technologies & Tools
-
-Java, Javascript, Spring, Spring Security, Struts 2, SQLMaps, Apache Jackrabbit, iSeries, WebShphere, WebSphereMQ, Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java, Javascript
+| Frameworks:                 | Spring, Spring Security, Struts 2, SQLMaps, Apache Jackrabbit,
+| Target{nbsp}Environments:   | iSeries, WebShphere, WebSphereMQ,
+| Development{nbsp}Tools:     | Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
+|===
 
 [[DnB]]
 == D&B, Dublin, Ireland
 
-=== Contractor – Technical Architect, May 2011 – July 2011
+=== Technical Architect (Contract) | May 2011 – July 2011
 
 I was taken on by D&B to be an architect on user interface and input handler components of their new Data Supply Chain infrastructure. The Data Supply Chain infrastructure is responsible for processing all inbound data used by D&B to accumulate business intelligence, derive linkage information and calculate credit scores. The project has not progressed past the requirements gathering phase when I left.
 
 [[Fujitsu1]]
 == Fujitsu, Dublin, Ireland
 
-=== Contractor – SOA Architect, Jun 10 – Apr 11
+=== SOA Architect (Contract) | June 2010 – April 2011
 
-At Fujitsu I designed and implemented solutions for the Irish Department of Transport and the Irish Courts Service using the principles of Service Oriented Architecture.
+At Fujitsu I designed and implemented solutions for the Irish Department of Transport and the Irish Courts Service
+using the principles of Service Oriented Architecture.
 
 === Achievements
 
-* Designed the integration for the Department of Transport with its equivalents in other EU jurisdictions to share driver, vehicle and owner information using Oracle SOA Suite 10g.
+* Designed the integration for the Department of Transport with its equivalents in other EU jurisdictions to share
+  driver, vehicle and owner information using Oracle SOA Suite 10g.
 
-* Implemented web services using Oracle SOA Suite 10g to allow the Road Safety Authority and Taxi Regulator access the driver and vehicle database maintained by the Department of Transport.
+* Implemented web services using Oracle SOA Suite 10g to allow the Road Safety Authority and Taxi Regulator access the
+  driver and vehicle database maintained by the Department of Transport.
 
 * Implemented a web service and front end to allow vehicle owners recover the PIN they need to pay motor tax online.
 
 * Proposed the development toolset and open source technology stack for the Irish Courts Service.
 
-* Designed and led the implementation a proof of concept for the Irish Courts Service to allow plaintiffs seek judgements for liquidated sums online using JBoss, Spring, Spring Web Services, Hibernate and JBoss ESB
+* Designed and led the implementation a proof of concept for the Irish Courts Service to allow plaintiffs seek
+  judgements for liquidated sums online using JBoss, Spring, Spring Web Services, Hibernate and JBoss ESB.
 
-* Upgraded the integration of Murex trading and SWIFT settlement systems at KBC Bank
+* Upgraded the integration of Murex trading and SWIFT settlement systems at KBC Bank.
 
-=== Technologies & Tools
-
-Programming Language – Java, Shell Scripting, BPEL, Javascript
-Frameworks – Spring, Spring Security, Spring Webflow, Spring Web Services, Hibernate, EHCache, jBPM, Drools
-Target Environment – Solaris, WebSphere MQ, OC4J, JBoss, Oracle SOA Suite, JBossESB, Apache, OpenLDAP, Active Directory, MySQL, Ingres, Oracle
-Development Tools – Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Grinder, JMeter, Benerator, Eclipse
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java, Shell Scripting, BPEL, Javascript
+| Frameworks:                 | Spring, Spring Security, Spring Webflow, Spring Web Services, Hibernate, EHCache, jBPM, Drools
+| Target{nbsp}Environments:   | Solaris, WebSphere MQ, OC4J, JBoss, Oracle SOA Suite, JBossESB, Apache, OpenLDAP, Active Directory, MySQL, Ingres, Oracle
+| Development{nbsp}Tools:     | Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Grinder, JMeter, Benerator, Eclipse
+|===
 
 [[Corvil]]
 === Corvil, Dublin, Ireland
@@ -313,15 +333,18 @@ in order to perform gap detection and message correlation within their latency a
 
 * Implemented a decoder for Tibco Rendezvous by reverse engineering sample traffic.
 
-=== Technologies & Tools
-
-{cpp}, PERL, Python, Boost, STL, Expat, Xerces, BSD Linux, g++, Subversion, JIRA, Fisheye,
-Bamboo, Crucible, Valgrind
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | {cpp}, PERL, Python
+| Frameworks:                 | Boost, STL, Expat, Xerces,
+| Target{nbsp}Environments:   | BSD Linux
+| Development{nbsp}Tools:     | g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Valgrind
+|===
 
 [[Vodafone]]
 == Vodafone, London, UK
 
-=== Contractor - Technical Architect, Feb 09 – Sep 09
+=== Technical Architect (Contract), Feb 09 – Sep 09
 
 I was the technical architect for My Web (http://myweb.vodafone.com), Vodafone’s new mobile portal that evolved into Vodafone 360. It was originally launched for Egypt, Germany, Greece, Ireland, Italy, Netherlands, Portugal, Spain, South Africa, Turkey and UK in 2009.
 
@@ -331,11 +354,13 @@ I was the technical architect for My Web (http://myweb.vodafone.com), Vodafone�
 
 * Migrated the build and improved the automation from ANT to Maven 2
 
-=== Technologies & Tools
-
-Java, PHP, Javascript, Spring, Spring LDAP, Struts, Hibernate, EHCache, JGroups, Apache Commons,
-OSGi, Ext/JS, JBoss AS, Apache Felix, Apache HTTPD Server, Oracle 10g, Solaris, Maven, Hudson,
-Archiva, Eclipse, Subversion, Grinder, JProbe, Mercury Quality Centre
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java, PHP, Javascript
+| Frameworks:                 | Spring, Spring LDAP, Struts, Hibernate, EHCache, JGroups, Apache Commons, OSGi, Ext/JS
+| Target{nbsp}Environments:   | JBoss AS, Apache Felix, Apache HTTPD Server, Oracle 10g, Solaris
+| Development{nbsp}Tools:     | Maven, Hudson, Archiva, Eclipse, Subversion, Grinder, JProbe, Mercury Quality Centre
+|===
 
 [[TerraNua]]
 == TerraNua, Dublin, Ireland & Tunis, Tunisia
@@ -365,13 +390,13 @@ processes. MyComplianceOffice was built using portal server, workflow and docume
 
 * Introduced continuous integration (using Continuum).
 
-=== Technologies & Tools
-
-Java, Javascript, Spring, Acegi, Spring Web Services, Apache Axis, Spring LDAP, Hibernate, Compass,
-Lucene, Quartz, Drools, JUG, CGLIB, EhCache, Shark,
-Jetspeed 2, IBM WebSphere, Netscape iPlanet, SunONE Directory Server, Documentum, Oracle 10g, Solaris
-Maven, Continuum, Archiva, Eclipse, Clearcase, Apache HTTP Server, Apache Tomcat, Oracle XE, Windows,
-Sharepoint, JIRA, LoadRunner, QuickTest Pro, MediaWiki
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java, Javascript
+| Frameworks:                 | Spring, Acegi, Spring Web Services, Apache Axis, Spring LDAP, Hibernate, Compass, Lucene, Quartz, Drools, JUG, CGLIB, EhCache, Shark, Jetspeed 2
+| Target{nbsp}Environments:   | IBM WebSphere, Netscape iPlanet, SunONE Directory Server, Documentum, Oracle 10g, Solaris
+| Development{nbsp}Tools:     | Maven, Continuum, Archiva, Eclipse, Clearcase, Apache HTTP Server, Apache Tomcat, Oracle XE, Windows, Sharepoint, JIRA, LoadRunner, QuickTest Pro, MediaWiki
+|===
 
 [[Fidelity2]]
 == Fidelity Investments, Dublin, Ireland
@@ -390,11 +415,13 @@ the workflow engine was implemented using C# and the NxBRE rules engine.
 
 * Designed and implemented a new automation engine to provision user access requests.
 
-=== Technologies & Tools
-
-C#, .NET, ASP.NET, NxBRE, IIS, Active Directory, Oracle 9i, Sun Identity Manager,
-BMC Enterprise Security Station, Windows 2003 Server, Solaris,
-Visual Studio, Clearcase, ClearQuest
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | C#
+| Frameworks:                 | .NET, ASP.NET, NxBRE
+| Target{nbsp}Environments:   | IIS, Active Directory, Oracle 9i, Sun Identity Manager, BMC Enterprise Security Station, Windows 2003 Server, Solaris
+| Development{nbsp}Tools:     | Visual Studio, Clearcase, ClearQuest
+|===
 
 [[KVH]]
 == KVH, Tokyo, Japan
@@ -417,11 +444,13 @@ based platforms.
 
 * Designed and developed a Business to Employee (B2E) portal implemented in Struts.
 
-=== Technologies & Tools
-
-Java, Struts, Apache FOP, Hibernate, Velocity, BEA WebLogic Portal, Tomcat, webMethods, Siebel,
-Oracle eBusiness Suite, Portal Infranet, Micromuse Netcool, Infovista, Eclipse, CVS, LoadRunner,
-QuickTest Pro
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java
+| Frameworks:                 | Struts, Apache FOP, Hibernate, Velocity
+| Target{nbsp}Environments:  | BEA WebLogic Portal, Tomcat, webMethods, Siebel, Oracle eBusiness Suite, Portal Infranet, Micromuse Netcool, Infovista
+| Development{nbsp}Tools:    | Eclipse, CVS, LoadRunner, QuickTest Pro
+|===
 
 [[Fidelity1]]
 == Fidelity Investments, Dublin, Ireland
@@ -466,10 +495,13 @@ I played a leading role in three major product developments:
 
 * Achieved 5 out of 5 customer satisfaction ratings from the FOX+ project stakeholders.
 
-== Technologies & Tools
-
-Java, {cpp}, Javascript, Struts, STL, MFC, RougeWave Libraries, COM/ATL, ADO, IBM WebSphere, Sybase, Solaris,
-Windows 95/NT/ME/2000, Eclipse, Visual {cpp}, Clearcase, LoadRunner, WinRunner, ClearQuest, Test Director
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java, {cpp}, Javascript
+| Frameworks:                 | Struts, STL, MFC, RougeWave Libraries, COM/ATL, ADO
+| Target{nbsp}Environments:   | IBM WebSphere, Sybase, Solaris, Windows 95/NT/ME/2000
+| Development{nbsp}Tools:     | Eclipse, Visual {cpp}, Clearcase, LoadRunner, WinRunner, ClearQuest, Test Director
+|===
 
 [[IFS]]
 == International Financial Systems, Dublin, Ireland
@@ -486,14 +518,18 @@ desktop application using {cpp}.
 
 * Took on the role of Software Development Manager with responsibility for teams based in Dublin, Singapore and Manila
 
-=== Technologies & Tools
-
-{cpp}, Orbix, MFC, Windows NT, Visual {cpp}, Visual SourceSafe
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | {cpp}
+| Frameworks:                 | Orbix, MFC
+| Target{nbsp}Environments:   | Windows NT
+| Development{nbsp}Tools:     | Visual {cpp}, Visual SourceSafe
+|===
 
 [[ATT2]]
 == AT&T Labs, Redditch, UK
 
-=== Technical Lead (Contractor), October 1998 – July 1999
+=== Technical Lead (Contract) | October 1998 – July 1999
 
 I worked for the IP Technology Organization, which was developing a platform to construct and manage
 network services called Common Open IP Platform (COIPP). I provided CORBA expertise to the team responsible for
@@ -507,14 +543,18 @@ implementing the middle-tier components of the provisioning, billing and managem
 
 * Migrated the team’s version control solution from PVCS to Clearcase.
 
-=== Technologies & Tools
-
-Java, {cpp}, Orbix, VisiBroker, MQSeries, Oracle, Solaris, Visual {cpp}, Sun {cpp}, Clearcase, PVCS
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java, {cpp}
+| Frameworks:                 | Orbix, VisiBroker
+| Target{nbsp}Environment:    | MQSeries, Oracle, Solaris
+| Development{nbsp}Tools:     | Visual {cpp}, Sun {cpp}, Clearcase, PVCS
+|===
 
 [[IBM2]]
 == IBM, Dublin, Ireland
 
-=== Project Lead (Contractor), October 1997 – September 1998
+=== Project Lead (Contract), October 1997 – September 1998
 
 I worked with the Insurance Solutions Development Centre developing a customer relationship management
 application for insurance companies called Client Information & Integration System (CIIS).
@@ -525,9 +565,13 @@ application for insurance companies called Client Information & Integration Syst
 
 * Led the team developed the middle-tier components.
 
-=== Technologies & Tools
-
-Java, {cpp}, Swing, Orbix, OrbixWeb, DB2, Solaris, Visual {cpp}, Visual SourceSafe
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Java, {cpp}
+| Frameworks:                 | Swing, Orbix, OrbixWeb
+| Target{nbsp}Environment:    | DB2, Solaris
+| Development{nbsp}Tools:     | Visual {cpp}, Visual SourceSafe, make
+|===
 
 [[Microsoft]]
 == Microsoft, Seattle, WA, USA
@@ -538,14 +582,18 @@ I worked for the Infrastructure and Automation Tools team. I was responsible for
 on file, database, e-mail, web and proxy servers to collect usage metrics. Those metrics were used to predict future
 server and disk space needs. The agents were installed on over 3,000 servers world-wide.
 
-=== Technologies & Tools
-
-{cpp}, MFC, SQL Server, Windows NT, Visual {cpp}, Visual SourceSafe
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | {cpp}
+| Frameworks:                 | MFC
+| Target{nbsp}Environments:   | SQL Server, Windows NT
+| Development{nbsp}Tools:     | Visual {cpp}, Visual SourceSafe
+|===
 
 [[Lotus]]
 == Lotus, Dublin, Ireland
 
-=== Software Engineer (Contractor) | September 1995 – March 1996
+=== Software Engineer (Contract) | September 1995 – March 1996
 
 I worked for the Global QA team that developed test, automation and localization tools used to test and localize Lotus'
 office application suite called Lotus SmartSuite.
@@ -556,14 +604,18 @@ office application suite called Lotus SmartSuite.
 
 * Unified the code-base to eliminate the need for separate builds for each flavour of Windows.
 
-=== Technologies & Tools
-
-{cpp}, Windows 3.x, Windows 95, Windows NT, Visual {cpp}, PVCS, Lotus Notes
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | {cpp}
+| Frameworks:                 |
+| Target{nbsp}Environments:   | Windows 3.x/95/NT
+| Development{nbsp}Tools:     | Visual {cpp}, PVCS, Lotus Notes
+|===
 
 [[Lehman]]
 == Lehman Brothers, London, UK
 
-=== Contractor – Project Lead, Aug 94 – Aug 95
+=== Project Lead (Contract), August 1994 – August 1995
 
 I developed and maintained applications to support the purchasing, goods inwards and accounting
 departments of Lehman Brothers in London.
@@ -576,22 +628,30 @@ departments of Lehman Brothers in London.
 
 * Carried out maintenance and implemented enhancements to meet changing business practices.
 
-=== Technologies & Tools
-
-{cpp}  Object Windows Library, Lotus Notes, Sybase, Windows 3.x, OS/2, Borland {cpp}, {csetpp}, PVCS
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | {cpp}
+| Frameworks:                 | Object Windows Library
+| Target{nbsp}Environments:   | Lotus Notes, Sybase, Windows 3.x, OS/2
+| Development{nbsp}Tools:     | Borland {cpp}, {csetpp}, PVCS
+|===
 
 [[HP]]
 == Hewlett-Packard, Grenoble, France
 
-=== Contractor – Software Engineer, Apr 94 – Jul 94
+===  Software Engineer (Contract) | April 1994 – July 1994
 
 I was part of a small team that ported a product called Omnishare to run on a standard IBM compatible PC. Omnishare was
 a conferencing tool that allowed users to share and annotate documents using the same telephone line for voice and data.
 It had been originally designed to run on custom hardware.
 
-=== Technologies & Tools
-
-{cpp}, MFC, Windows 3.x, Visual {cpp}, Visual SourceSafe
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | {cpp}
+| Frameworks:                 |  MFC
+| Target{nbsp}Environments:   | Windows 3.x
+| Development{nbsp}Tools:     | Visual {cpp}, Visual SourceSafe
+|===
 
 [[IBM1]]
 == IBM, Dublin, Ireland
@@ -608,14 +668,18 @@ conditions and inter-process communication issues.
 
 * Re-introduced release engineering processes that had been abandoned by the development team.
 
-=== Technologies & Tools
-
-{cpp}, OS/2, DB2, Communications Manager, {csetpp}
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | {cpp}
+| Frameworks:                 |
+| Target{nbsp}Environments:   | OS/2, DB2, Communications Manager
+| Development{nbsp}Tools:     | {csetpp}
+|===
 
 [[BR]]
 === British Rail, Darlington, UK
 
-===  Software Engineer (Contractor) | March - September 1993
+===  Software Engineer (Contract) | March - September 1993
 
 I was part of the team that developed a client-server application called Advanced Transmanche Operations
 Management System (ATOMS). ATOMS was the passenger booking and rolling stock management system developed for British
@@ -625,14 +689,18 @@ Rail, SNCF France and SNCF Belgium to operate services running through the Euro 
 
 * Designed and implemented the framework for the ATOMS user interface.
 
-=== Technologies & Tools
-
-{cpp}, MFC, Windows 3.x, Oracle, Visual {cpp}, PVCS
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | {cpp}
+| Frameworks:                 |  MFC
+| Target{nbsp}Environments:   | Windows 3.x, Oracle
+| Development{nbsp}Tools:     | Visual {cpp}, PVCS
+|===
 
 [[ATT1]]
 == AT&T Istel, Redditch, UK
 
-=== Software Engineer (Contractor) | September 1992 – January 1993
+=== Software Engineer (Contract) | September 1992 – January 1993
 
 I implemented a light-weight object request broker for Windows that allowed inter-process communication between
 processes on a personal computer and with remote processes running on Unix servers. The object request broker pre-dated
@@ -645,9 +713,13 @@ Common Object Request Broker Architecture (CORBA) and was based on Advanced Netw
 * Developed the client-side communication between the Windows applications and server processes over a serial
   connection.
 
-=== Technologies & Tools
-
-{cpp}, Windows 3.x, Unix, Visual {cpp}, PVCS
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | {cpp}
+| Frameworks:                 |
+| Target{nbsp}Environments:   | Windows 3.x, Unix
+| Development{nbsp}Tools:     | Visual {cpp}, PVCS
+|===
 
 [[Polydata]]
 == Polydata, Dublin Ireland
@@ -664,9 +736,13 @@ of the plastics manufactured and sold by those companies.
 
 * Automated the release engineering process.
 
-=== Technologies & Tools
-
-Pascal, C, {cpp}, Assembler, MS-DOS, Turbo Pascal, Turbo C++, RCS
+[%autowidth,cols="h,a",frame=none,grid=none]
+|===
+| Programming{nbsp}Languages: | Pascal, C, {cpp}, Assembler
+| Frameworks:                 |
+| Target{nbsp}Environments:   | MS-DOS
+| Development{nbsp}Tools:     | Turbo Pascal, Turbo C++, RCS
+|===
 
 == Qualifications & Training
 
