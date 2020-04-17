@@ -38,7 +38,7 @@ USA, France, Japan and Tunisia.
 
 == Work History
 
-[%autowidth,frame=none,grid=none,options=header,stripes=even]
+[%autowidth,frame=none,grid=none,options=header]
 |===
 | Company         | Period           | Role
 | <<Synchronoss>> | Jan 16 - Present | Software Engineer (Contract)
@@ -77,7 +77,7 @@ USA, France, Japan and Tunisia.
 === Software Engineer (Contract) | January 2016 - January 2020
 
 I have worked on several of the core services, and many of the shared libraries, of Synchronoss' Personal Cloud
-product suite for mobile telecommunications providers such as Verizon and BT.
+product suite (https://synchronoss.com/products/cloud/personal-cloud-solution/) for mobile telecommunications providers such as Verizon and BT.
 
 * Digital Vault -- provides APIs to manage meta-data about content backed up from users' mobile and desktop devices.
 
@@ -109,12 +109,12 @@ product suite for mobile telecommunications providers such as Verizon and BT.
 * Introduced the bill-of-materials concept to ensure consistency in the use of 3rd party libraries across all
   core services and shared libraries.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java, Groovy
-| Frameworks:                 | Spring, Spring Boot, Spring Cloud, Spring Security, JAX-RS (Jersey), Eureka, Docker
-| Target{nbsp}Environments:   | Docker, AWS, Cassandra, MySQL, Oracle, Memcached, RabbitMQ, SwiftMQ, MacOS, Linux
-| Development{nbsp}Tools:     | Git, Maven, Gradle, JIRA, Bamboo, Confluence, Stash, AsciiDoctor, Docbook, Cucumber, Sonar
+| Programming Languages: | Java, Groovy
+| Frameworks:            | Spring, Spring Boot, Spring Cloud, Spring Security, JAX-RS (Jersey), Eureka, Docker
+| Target Environments:   | Docker, AWS, Cassandra, MySQL, Oracle, Memcached, RabbitMQ, SwiftMQ, MacOS, Linux
+| Development Tools:     | Git, Maven, Gradle, JIRA, Bamboo, Confluence, Stash, AsciiDoctor, Docbook, Cucumber, Sonar
 |===
 
 [[THBS]]
@@ -155,12 +155,12 @@ for business customers (https://advantagemanager.eir.ie).
 * Created RESTful and SOAP web services to support user provisioning by internal order processing systems and external
   vendor platforms.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java, JavaScript, Ruby, PHP
-| Frameworks:                 | Spring, Spring Security, Spring Security SAML, Spring Web Services, Thymeleaf, Smarty Templates, jQuery, AngularJS, Bootstrap, SimpleSAMLphp
-| Target{nbsp}Environments:   | Redhat Linux, Windows Server, Tomcat, SQL Server, MySQL, OpenAM, OpenDJ, Memcached, Postfix
-| Development{nbsp}Tools:     | IntelliJ, Git, Maven, Grunt, Jenkins, Chef, Vagrant, Docbook
+| Programming Languages: | Java, JavaScript, Ruby, PHP
+| Frameworks:            | Spring, Spring Security, Spring Security SAML, Spring Web Services, Thymeleaf, Smarty Templates, jQuery, AngularJS, Bootstrap, SimpleSAMLphp
+| Target Environments:   | Redhat Linux, Windows Server, Tomcat, SQL Server, MySQL, OpenAM, OpenDJ, Memcached, Postfix
+| Development Tools:     | IntelliJ, Git, Maven, Grunt, Jenkins, Chef, Vagrant, Docbook
 |===
 
 [[Daon]]
@@ -180,12 +180,12 @@ biometric and multi-factor authentication to secure banking transactions on mobi
 * Introduced the Jasmine test framework to unit test the server-side JavaScript scripts
   that glued together many of the modules of the IdentityX server component.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java, JavaScript
-| Frameworks:                 | Spring, Jasmine
-| Target{nbsp}Environment:    | Redhat Linux, Windows Server, Tomcat, Oracle, SQL Server, MySQL
-| Development{nbsp}Tools:     | Eclipse, Subversion, Maven, Ant, Jenkins
+| Programming Languages: | Java, JavaScript
+| Frameworks:            | Spring, Jasmine
+| Target Environment:    | Redhat Linux, Windows Server, Tomcat, Oracle, SQL Server, MySQL
+| Development Tools:     | Eclipse, Subversion, Maven, Ant, Jenkins
 |===
 
 [[Realex]]
@@ -210,12 +210,12 @@ Control 2 and Hosted Payments Page.
 * Designed and implemented the integration with alternative payment methods (e.g.
   PayPal) and exchange rate quoting using Spring Integration.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java, JavaScript
-| Frameworks:                 | Spring, Spring Security, Spring Integration, Thymeleaf, Apache Jackrabbit, myBatis,
-| Target{nbsp}Environments:   | Redhat Linux, SpringSource tcServer, SQL Server, Memcached
-| Development{nbsp}Tools:     | Eclipse, Maven
+| Programming Languages: | Java, JavaScript
+| Frameworks:            | Spring, Spring Security, Spring Integration, Thymeleaf, Apache Jackrabbit, myBatis,
+| Target Environments:   | Redhat Linux, SpringSource tcServer, SQL Server, Memcached
+| Development Tools:     | Eclipse, Maven
 |===
 
 [[Fujitsu2]]
@@ -243,12 +243,12 @@ cloud based storage.
   primarily to eliminate inherent race conditions in the synchronization process. I had the secondary goal of
   making it possible to write unit tests.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Objective-C
-| Frameworks:                 | CoreData, Cocoa, OSXFUSE, OCMock, Growl
-| Target{nbsp}Environments:   | MacOS X 10.6+
-| Development{nbsp}Tools:     | XCode 4, Perforce, JIRA, Confluence, Bamboo, Nexus, Maven
+| Programming Languages: | Objective-C
+| Frameworks:            | CoreData, Cocoa, OSXFUSE, OCMock, Growl
+| Target Environments:   | MacOS X 10.6+
+| Development Tools:     | XCode 4, Perforce, JIRA, Confluence, Bamboo, Nexus, Maven
 |===
 
 [[LeasePlan]]
@@ -271,12 +271,12 @@ experience and address security concerns raised by external auditors.
 
 * Addressed performance issues when proxying remote content (car images) provided by 3rd party systems by introducing caching and image scaling
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java, Javascript
-| Frameworks:                 | Spring, Spring Security, Struts 2, SQLMaps, Apache Jackrabbit,
-| Target{nbsp}Environments:   | iSeries, WebShphere, WebSphereMQ,
-| Development{nbsp}Tools:     | Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
+| Programming Languages: | Java, Javascript
+| Frameworks:            | Spring, Spring Security, Struts 2, SQLMaps, Apache Jackrabbit,
+| Target Environments:   | iSeries, WebShphere, WebSphereMQ,
+| Development Tools:     | Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
 |===
 
 [[DnB]]
@@ -311,12 +311,12 @@ using the principles of Service Oriented Architecture.
 
 * Upgraded the integration of Murex trading and SWIFT settlement systems at KBC Bank.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java, Shell Scripting, BPEL, Javascript
-| Frameworks:                 | Spring, Spring Security, Spring Webflow, Spring Web Services, Hibernate, EHCache, jBPM, Drools
-| Target{nbsp}Environments:   | Solaris, WebSphere MQ, OC4J, JBoss, Oracle SOA Suite, JBossESB, Apache, OpenLDAP, Active Directory, MySQL, Ingres, Oracle
-| Development{nbsp}Tools:     | Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Grinder, JMeter, Benerator, Eclipse
+| Programming Languages: | Java, Shell Scripting, BPEL, Javascript
+| Frameworks:            | Spring, Spring Security, Spring Webflow, Spring Web Services, Hibernate, EHCache, jBPM, Drools
+| Target Environments:   | Solaris, WebSphere MQ, OC4J, JBoss, Oracle SOA Suite, JBossESB, Apache, OpenLDAP, Active Directory, MySQL, Ingres, Oracle
+| Development Tools:     | Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Grinder, JMeter, Benerator, Eclipse
 |===
 
 [[Corvil]]
@@ -335,12 +335,12 @@ in order to perform gap detection and message correlation within their latency a
 
 * Implemented a decoder for Tibco Rendezvous by reverse engineering sample traffic.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | {cpp}, PERL, Python
-| Frameworks:                 | Boost, STL, Expat, Xerces,
-| Target{nbsp}Environments:   | BSD Linux
-| Development{nbsp}Tools:     | g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Valgrind
+| Programming Languages: | {cpp}, PERL, Python
+| Frameworks:            | Boost, STL, Expat, Xerces,
+| Target Environments:   | BSD Linux
+| Development Tools:     | g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Valgrind
 |===
 
 [[Vodafone]]
@@ -356,12 +356,12 @@ I was the technical architect for My Web (http://myweb.vodafone.com), Vodafoneâ€
 
 * Migrated the build and improved the automation from ANT to Maven 2
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java, PHP, Javascript
-| Frameworks:                 | Spring, Spring LDAP, Struts, Hibernate, EHCache, JGroups, Apache Commons, OSGi, Ext/JS
-| Target{nbsp}Environments:   | JBoss AS, Apache Felix, Apache HTTPD Server, Oracle 10g, Solaris
-| Development{nbsp}Tools:     | Maven, Hudson, Archiva, Eclipse, Subversion, Grinder, JProbe, Mercury Quality Centre
+| Programming Languages: | Java, PHP, Javascript
+| Frameworks:            | Spring, Spring LDAP, Struts, Hibernate, EHCache, JGroups, Apache Commons, OSGi, Ext/JS
+| Target Environments:   | JBoss AS, Apache Felix, Apache HTTPD Server, Oracle 10g, Solaris
+| Development Tools:     | Maven, Hudson, Archiva, Eclipse, Subversion, Grinder, JProbe, Mercury Quality Centre
 |===
 
 [[TerraNua]]
@@ -392,12 +392,12 @@ processes. MyComplianceOffice was built using portal server, workflow and docume
 
 * Introduced continuous integration (using Continuum).
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java, Javascript
-| Frameworks:                 | Spring, Acegi, Spring Web Services, Apache Axis, Spring LDAP, Hibernate, Compass, Lucene, Quartz, Drools, JUG, CGLIB, EhCache, Shark, Jetspeed 2
-| Target{nbsp}Environments:   | IBM WebSphere, Netscape iPlanet, SunONE Directory Server, Documentum, Oracle 10g, Solaris
-| Development{nbsp}Tools:     | Maven, Continuum, Archiva, Eclipse, Clearcase, Apache HTTP Server, Apache Tomcat, Oracle XE, Windows, Sharepoint, JIRA, LoadRunner, QuickTest Pro, MediaWiki
+| Programming Languages: | Java, Javascript
+| Frameworks:            | Spring, Acegi, Spring Web Services, Apache Axis, Spring LDAP, Hibernate, Compass, Lucene, Quartz, Drools, JUG, CGLIB, EhCache, Shark, Jetspeed 2
+| Target Environments:   | IBM WebSphere, Netscape iPlanet, SunONE Directory Server, Documentum, Oracle 10g, Solaris
+| Development Tools:     | Maven, Continuum, Archiva, Eclipse, Clearcase, Apache HTTP Server, Apache Tomcat, Oracle XE, Windows, Sharepoint, JIRA, LoadRunner, QuickTest Pro, MediaWiki
 |===
 
 [[Fidelity2]]
@@ -417,12 +417,12 @@ the workflow engine was implemented using C# and the NxBRE rules engine.
 
 * Designed and implemented a new automation engine to provision user access requests.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | C#
-| Frameworks:                 | .NET, ASP.NET, NxBRE
-| Target{nbsp}Environments:   | IIS, Active Directory, Oracle 9i, Sun Identity Manager, BMC Enterprise Security Station, Windows 2003 Server, Solaris
-| Development{nbsp}Tools:     | Visual Studio, Clearcase, ClearQuest
+| Programming Languages: | C#
+| Frameworks:            | .NET, ASP.NET, NxBRE
+| Target Environments:   | IIS, Active Directory, Oracle 9i, Sun Identity Manager, BMC Enterprise Security Station, Windows 2003 Server, Solaris
+| Development Tools:     | Visual Studio, Clearcase, ClearQuest
 |===
 
 [[KVH]]
@@ -446,12 +446,12 @@ based platforms.
 
 * Designed and developed a Business to Employee (B2E) portal implemented in Struts.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java
-| Frameworks:                 | Struts, Apache FOP, Hibernate, Velocity
-| Target{nbsp}Environments:  | BEA WebLogic Portal, Tomcat, webMethods, Siebel, Oracle eBusiness Suite, Portal Infranet, Micromuse Netcool, Infovista
-| Development{nbsp}Tools:    | Eclipse, CVS, LoadRunner, QuickTest Pro
+| Programming Languages: | Java
+| Frameworks:            | Struts, Apache FOP, Hibernate, Velocity
+| Target Environments:  | BEA WebLogic Portal, Tomcat, webMethods, Siebel, Oracle eBusiness Suite, Portal Infranet, Micromuse Netcool, Infovista
+| Development Tools:    | Eclipse, CVS, LoadRunner, QuickTest Pro
 |===
 
 [[Fidelity1]]
@@ -497,12 +497,12 @@ I played a leading role in three major product developments:
 
 * Achieved 5 out of 5 customer satisfaction ratings from the FOX+ project stakeholders.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java, {cpp}, Javascript
-| Frameworks:                 | Struts, STL, MFC, RougeWave Libraries, COM/ATL, ADO
-| Target{nbsp}Environments:   | IBM WebSphere, Sybase, Solaris, Windows 95/NT/ME/2000
-| Development{nbsp}Tools:     | Eclipse, Visual {cpp}, Clearcase, LoadRunner, WinRunner, ClearQuest, Test Director
+| Programming Languages: | Java, {cpp}, Javascript
+| Frameworks:            | Struts, STL, MFC, RougeWave Libraries, COM/ATL, ADO
+| Target Environments:   | IBM WebSphere, Sybase, Solaris, Windows 95/NT/ME/2000
+| Development Tools:     | Eclipse, Visual {cpp}, Clearcase, LoadRunner, WinRunner, ClearQuest, Test Director
 |===
 
 [[IFS]]
@@ -520,12 +520,12 @@ desktop application using {cpp}.
 
 * Took on the role of Software Development Manager with responsibility for teams based in Dublin, Singapore and Manila
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | {cpp}
-| Frameworks:                 | Orbix, MFC
-| Target{nbsp}Environments:   | Windows NT
-| Development{nbsp}Tools:     | Visual {cpp}, Visual SourceSafe
+| Programming Languages: | {cpp}
+| Frameworks:            | Orbix, MFC
+| Target Environments:   | Windows NT
+| Development Tools:     | Visual {cpp}, Visual SourceSafe
 |===
 
 [[ATT2]]
@@ -545,12 +545,12 @@ implementing the middle-tier components of the provisioning, billing and managem
 
 * Migrated the teamâ€™s version control solution from PVCS to Clearcase.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java, {cpp}
-| Frameworks:                 | Orbix, VisiBroker
-| Target{nbsp}Environment:    | MQSeries, Oracle, Solaris
-| Development{nbsp}Tools:     | Visual {cpp}, Sun {cpp}, Clearcase, PVCS
+| Programming Languages: | Java, {cpp}
+| Frameworks:            | Orbix, VisiBroker
+| Target Environment:    | MQSeries, Oracle, Solaris
+| Development Tools:     | Visual {cpp}, Sun {cpp}, Clearcase, PVCS
 |===
 
 [[IBM2]]
@@ -567,12 +567,12 @@ application for insurance companies called Client Information & Integration Syst
 
 * Led the team developed the middle-tier components.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Java, {cpp}
-| Frameworks:                 | Swing, Orbix, OrbixWeb
-| Target{nbsp}Environment:    | DB2, Solaris
-| Development{nbsp}Tools:     | Visual {cpp}, Visual SourceSafe, make
+| Programming Languages: | Java, {cpp}
+| Frameworks:            | Swing, Orbix, OrbixWeb
+| Target Environment:    | DB2, Solaris
+| Development Tools:     | Visual {cpp}, Visual SourceSafe, make
 |===
 
 [[Microsoft]]
@@ -584,12 +584,12 @@ I worked for the Infrastructure and Automation Tools team. I was responsible for
 on file, database, e-mail, web and proxy servers to collect usage metrics. Those metrics were used to predict future
 server and disk space needs. The agents were installed on over 3,000 servers world-wide.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | {cpp}
-| Frameworks:                 | MFC
-| Target{nbsp}Environments:   | SQL Server, Windows NT
-| Development{nbsp}Tools:     | Visual {cpp}, Visual SourceSafe
+| Programming Languages: | {cpp}
+| Frameworks:            | MFC
+| Target Environments:   | SQL Server, Windows NT
+| Development Tools:     | Visual {cpp}, Visual SourceSafe
 |===
 
 [[Lotus]]
@@ -606,12 +606,12 @@ office application suite called Lotus SmartSuite.
 
 * Unified the code-base to eliminate the need for separate builds for each flavour of Windows.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | {cpp}
-| Frameworks:                 |
-| Target{nbsp}Environments:   | Windows 3.x/95/NT
-| Development{nbsp}Tools:     | Visual {cpp}, PVCS, Lotus Notes
+| Programming Languages: | {cpp}
+| Frameworks:            |
+| Target Environments:   | Windows 3.x/95/NT
+| Development Tools:     | Visual {cpp}, PVCS, Lotus Notes
 |===
 
 [[Lehman]]
@@ -630,12 +630,12 @@ departments of Lehman Brothers in London.
 
 * Carried out maintenance and implemented enhancements to meet changing business practices.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | {cpp}
-| Frameworks:                 | Object Windows Library
-| Target{nbsp}Environments:   | Lotus Notes, Sybase, Windows 3.x, OS/2
-| Development{nbsp}Tools:     | Borland {cpp}, {csetpp}, PVCS
+| Programming Languages: | {cpp}
+| Frameworks:            | Object Windows Library
+| Target Environments:   | Lotus Notes, Sybase, Windows 3.x, OS/2
+| Development Tools:     | Borland {cpp}, {csetpp}, PVCS
 |===
 
 [[HP]]
@@ -647,12 +647,12 @@ I was part of a small team that ported a product called Omnishare to run on a st
 a conferencing tool that allowed users to share and annotate documents using the same telephone line for voice and data.
 It had been originally designed to run on custom hardware.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | {cpp}
-| Frameworks:                 |  MFC
-| Target{nbsp}Environments:   | Windows 3.x
-| Development{nbsp}Tools:     | Visual {cpp}, Visual SourceSafe
+| Programming Languages: | {cpp}
+| Frameworks:            |  MFC
+| Target Environments:   | Windows 3.x
+| Development Tools:     | Visual {cpp}, Visual SourceSafe
 |===
 
 [[IBM1]]
@@ -670,12 +670,12 @@ conditions and inter-process communication issues.
 
 * Re-introduced release engineering processes that had been abandoned by the development team.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | {cpp}
-| Frameworks:                 |
-| Target{nbsp}Environments:   | OS/2, DB2, Communications Manager
-| Development{nbsp}Tools:     | {csetpp}
+| Programming Languages: | {cpp}
+| Frameworks:            |
+| Target Environments:   | OS/2, DB2, Communications Manager
+| Development Tools:     | {csetpp}
 |===
 
 [[BR]]
@@ -691,12 +691,12 @@ Rail, SNCF France and SNCF Belgium to operate services running through the Euro 
 
 * Designed and implemented the framework for the ATOMS user interface.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | {cpp}
-| Frameworks:                 |  MFC
-| Target{nbsp}Environments:   | Windows 3.x, Oracle
-| Development{nbsp}Tools:     | Visual {cpp}, PVCS
+| Programming Languages: | {cpp}
+| Frameworks:            |  MFC
+| Target Environments:   | Windows 3.x, Oracle
+| Development Tools:     | Visual {cpp}, PVCS
 |===
 
 [[ATT1]]
@@ -715,12 +715,12 @@ Common Object Request Broker Architecture (CORBA) and was based on Advanced Netw
 * Developed the client-side communication between the Windows applications and server processes over a serial
   connection.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | {cpp}
-| Frameworks:                 |
-| Target{nbsp}Environments:   | Windows 3.x, Unix
-| Development{nbsp}Tools:     | Visual {cpp}, PVCS
+| Programming Languages: | {cpp}
+| Frameworks:       |
+| Target Environments:   | Windows 3.x, Unix
+| Development Tools:     | Visual {cpp}, PVCS
 |===
 
 [[Polydata]]
@@ -738,12 +738,12 @@ of the plastics manufactured and sold by those companies.
 
 * Automated the release engineering process.
 
-[%autowidth,cols="h,a",frame=none,grid=none]
+[%autowidth,frame=none,grid=none]
 |===
-| Programming{nbsp}Languages: | Pascal, C, {cpp}, Assembler
-| Frameworks:                 |
-| Target{nbsp}Environments:   | MS-DOS
-| Development{nbsp}Tools:     | Turbo Pascal, Turbo {cpp}, RCS
+| Programming Languages: | Pascal, C, {cpp}, Assembler
+| Frameworks:            |
+| Target Environments:   | MS-DOS
+| Development Tools:     | Turbo Pascal, Turbo {cpp}, RCS
 |===
 
 == Qualifications & Training
