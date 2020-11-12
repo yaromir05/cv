@@ -109,11 +109,13 @@ product suite (https://synchronoss.com/products/cloud/personal-cloud-solution/) 
 * Introduced the bill-of-materials concept to ensure consistency in the use of 3rd party libraries across all
   core services and shared libraries.
 
+* Designed the component for managing audio playlists and photo albums.
+
 [%autowidth,frame=none,grid=none]
 |===
 | Programming Languages: | Java, Groovy
 | Frameworks:            | Spring, Spring Boot, Spring Cloud, Spring Security, JAX-RS (Jersey), Eureka, Docker
-| Target Environments:   | Docker, AWS, Cassandra, MySQL, Oracle, Memcached, RabbitMQ, SwiftMQ, MacOS, Linux
+| Target Environments:   | Docker, AWS, Cassandra, MariaDB/MySQL, Oracle, Memcached, Kafka, RabbitMQ, SwiftMQ, MacOS, Linux
 | Development Tools:     | Git, Maven, Gradle, JIRA, Bamboo, Confluence, Stash, AsciiDoctor, Docbook, Cucumber, Sonar
 |===
 
