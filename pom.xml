@@ -73,7 +73,6 @@
                         <configuration>
                             <backend>pdf</backend>
                             <embedAssets>true</embedAssets>
-                            <imagesDir>images</imagesDir>
                             <headerFooter>true</headerFooter>
                             <attributes>
                                 <pdf-stylesdir>${project.basedir}/src/main/themes</pdf-stylesdir>
