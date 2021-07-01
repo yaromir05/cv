@@ -38,38 +38,38 @@ I have been working remotely from Russia since October 2017.
 [frame=none,grid=none,options="autowidth"]
 |===
 h| Company       h| Period          h| Role
-| <<Synchronoss>> | Jan 16 - Now     | Software Engineer (Contract)
-| <<THBS>>        | Jan 14 - Dec 15  | Portal Team Lead (Contract)
-| <<Daon>>        | Sep 13 - Dec 13  | Software Engineer (Contract)
-| <<Realex>>      | Feb 13 - Aug 13  | Software Engineer (Contract)
-| <<Fujitsu2>>    | Jan 13 - Feb 13  | Software Engineer (Contract)
-| <<Newbay>>      | Jan 12 – Oct 12  | Software Engineer (Contract)
-| <<LeasePlan>>   | Jul 11 - Jan 12  | Software Engineer (Contract)
-| <<DnB>>         | May 11 - Jul 11  | Technical Architect (Contract)
-| <<Fujitsu1>>    | Jun 10 – Apr 11  | SOA Architect (Contract)
-| <<Corvil>>      | Oct 09 – Jun 10  | Software Engineer (Contract)
-| <<Vodafone>>    | Feb 09 – Sep 09  | Technical Architect (Contract)
-| <<TerraNua>>    | Aug 06 - Jul 08  | Director / Architect
-| <<Fidelity2>>   | Oct 05 - Jul 06  | Information Security Consultant / Architect
-| <<KVH>>         | Oct 03 - Sep 05  | Lead Systems Architect
-| <<Fidelity1>>   | Jun 00 - Sep 03  | Principal Consultant / Architect
-| <<IFS>>         | Aug 99 - May 00  | Software Development Manager
-| <<ATT2>>        | Oct 98 - Jul 99  | Technical Lead (Contract)
-| <<IBM2>>        | Oct 97 - Sep 98  | Project Lead (Contract)
-| <<Microsoft>>   | Apr 96 - Sep 97  | Software Engineer (Contract)
-| <<Lotus>>       | Sep 95 - Mar 96  | Software Engineer (Contract)
-| <<Lehman>>      | Aug 94 - Aug 95  | Project Lead (Contract)
-| <<HP>>          | Apr 94 - Jul 94  | Software Engineer (Contract)
-| <<IBM1>>        | Oct 93 - Mar 94  | Technical Lead (Contract)
-| <<BR>>          | Mar 93 - Sep 93  | Software Engineer (Contract)
-| <<ATT1>>        | Sep 92 - Jan 93  | Software Engineer (Contract)
-| <<Polydata>>    | Apr 89 - Aug 92  | Senior Software Engineer
+| <<Synchronoss>> | Jan 16 - Now     |  Инженер-программист(Работа по контракту)
+| <<THBS>>        | Jan 14 - Dec 15  | Руководитель группы портала (Работа по контракту)
+| <<Daon>>        | Sep 13 - Dec 13  |  Инженер-программист (Работа по контракту)
+| <<Realex>>      | Feb 13 - Aug 13  |  Инженер-программист (Работа по контракту)
+| <<Fujitsu2>>    | Jan 13 - Feb 13  |  Инженер-программист (Работа по контракту)
+| <<Newbay>>      | Jan 12 – Oct 12  |  Инженер-программист (Работа по контракту)
+| <<LeasePlan>>   | Jul 11 - Jan 12  |  Инженер-программист (Работа по контракту)
+| <<DnB>>         | May 11 - Jul 11  | Технический архитектор  (Работа по контракту)
+| <<Fujitsu1>>    | Jun 10 – Apr 11  | Архитектор SOA (Работа по контракту)
+| <<Corvil>>      | Oct 09 – Jun 10  |  Инженер-программист (Работа по контракту)
+| <<Vodafone>>    | Feb 09 – Sep 09  | Технический архитектор (Работа по контракту)
+| <<TerraNua>>    | Aug 06 - Jul 08  | Директор / Архитектор
+| <<Fidelity2>>   | Oct 05 - Jul 06  | Консультант по информационной безопасности / Архитектор
+| <<KVH>>         | Oct 03 - Sep 05  | Ведущий системный архитектор
+| <<Fidelity1>>   | Jun 00 - Sep 03  | Главный консультант / Architect
+| <<IFS>>         | Aug 99 - May 00  | Менеджер по разработке программного обеспечения
+| <<ATT2>>        | Oct 98 - Jul 99  | Менеджер по разработке программного обеспечения(Работа по контракту)
+| <<IBM2>>        | Oct 97 - Sep 98  | Руководитель проекта (Работа по контракту)
+| <<Microsoft>>   | Apr 96 - Sep 97  |  Инженер-программис (Работа по контракту)
+| <<Lotus>>       | Sep 95 - Mar 96  |  Инженер-программист (Работа по контракту)
+| <<Lehman>>      | Aug 94 - Aug 95  | Руководитель проекта (Работа по контракту)
+| <<HP>>          | Apr 94 - Jul 94  |  Инженер-программист (Работа по контракту
+| <<IBM1>>        | Oct 93 - Mar 94  | Техническое руководство (Работа по контракту)
+| <<BR>>          | Mar 93 - Sep 93  |  Инженер-программист (Работа по контракту)
+| <<ATT1>>        | Sep 92 - Jan 93  | Инженер-программист (Работа по контракту)
+| <<Polydata>>    | Apr 89 - Aug 92  | Старший инженер-программист
 |===
 
 [[Synchronoss]]
-== Synchronoss, Dublin, Ireland
+== Synchronoss, Дублин, Ирландия
 
-=== Software Engineer (Contract) | January 2016 - January 2020
+=== 
 
 I have worked on several of the core services, and many of the shared libraries, of Synchronoss' Personal Cloud product suite (https://synchronoss.com/products/cloud/personal-cloud-solution/) for mobile telecommunications providers such as Verizon and BT.
 
@@ -110,7 +110,7 @@ h| Development Tools:     | Git, Maven, Gradle, JIRA, Bamboo, Confluence, Stash,
 |===
 
 [[THBS]]
-== Torry Harris Business Solutions, Dublin, Ireland
+== Torry Harris Business Solutions, Дублин, Ирландия
 
 === Portal Lead (Contract) | January 2014 - December 2015
 
@@ -147,7 +147,7 @@ h| Development Tools:     | IntelliJ, Git, Maven, Grunt, Jenkins, Chef, Vagrant,
 |===
 
 [[Daon]]
-== Daon, Dublin, Ireland
+== Daon,  Дублин, Ирландия
 
 === Software Engineer (Contract) | September - December 2013
 
@@ -199,7 +199,7 @@ h| Development Tools:     | Eclipse, Maven
 |===
 
 [[Fujitsu2]]
-== Fujitsu, Dublin, Ireland
+== Fujitsu,  Дублин, Ирландия
 
 === Software Engineer (Contract) | January - February 2013
 
@@ -227,7 +227,7 @@ h| Development Tools:     | XCode 4, Perforce, JIRA, Confluence, Bamboo, Nexus, 
 |===
 
 [[LeasePlan]]
-== LeasePlan, Dublin, Ireland
+== LeasePlan,  Дублин, Ирландия
 
 === Software Engineer (Contract) | July 2011 - January 2012
 
@@ -254,19 +254,19 @@ h| Development Tools:     | Maven, Subversion, JIRA, Greenhopper, Artifactory, S
 |===
 
 [[DnB]]
-== D&B, Dublin, Ireland
+== D&B,  Дублин, Ирландия
 
 === Technical Architect (Contract) | May 2011 – July 2011
 
 I was taken on by D&B to be an architect on user interface and input handler components of their new Data Supply Chain infrastructure. The Data Supply Chain infrastructure is responsible for processing all inbound data used by D&B to accumulate business intelligence, derive linkage information and calculate credit scores. The project has not progressed past the requirements gathering phase when I left.
 
 [[Fujitsu1]]
-== Fujitsu, Dublin, Ireland
+== Fujitsu, Дублин, Ирландия
 
 === SOA Architect (Contract) | June 2010 – April 2011
 
 At Fujitsu I designed and implemented solutions for the Irish Department of Transport and the Irish Courts Service
-using the principles of Service Oriented Architecture.
+using the principles of Service Oriented Architecture. 
 
 === Achievements
 
@@ -291,7 +291,7 @@ h| Development Tools:     | Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Gr
 |===
 
 [[Corvil]]
-=== Corvil, Dublin, Ireland
+=== Corvil,  Дублин, Ирландия
 
 === Software Engineer (Contract) | October 2009 - June 2010
 
@@ -315,7 +315,7 @@ h| Development Tools:     | g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Va
 |===
 
 [[Vodafone]]
-== Vodafone, London, UK
+== Vodafone, Лондон, Великобритания
 
 === Technical Architect (Contract), Feb 09 – Sep 09
 
@@ -336,9 +336,9 @@ h| Development Tools:     | Maven, Hudson, Archiva, Eclipse, Subversion, Grinder
 |===
 
 [[TerraNua]]
-== TerraNua, Dublin, Ireland & Tunis, Tunisia
+== TerraNua, Дублин, Ирландия & Тунис, Тунис
 
-=== Director / Architect | August 2006 – Jul 2008
+=== Director / Architect | Август 2006 – Июль 2008
 
 I was mainly responsible for designing the architecture and overseeing the implementation of MyComplianceOffice (http://www.mycomplianceoffice.com/). MyComplianceOffice is a “Software as a Service” (SaaS) hosted/multi-tenant solution that allows US-based registered investment advisors and hedge funds manage their compliance related business processes. MyComplianceOffice was built using portal server, workflow and document management technologies.
 
@@ -369,7 +369,7 @@ h| Development Tools:     | Maven, Continuum, Archiva, Eclipse, Clearcase, Apach
 |===
 
 [[Fidelity2]]
-== Fidelity Investments, Dublin, Ireland
+== Fidelity Investments, Дублин, Ирландия
 
 === Information Security Consultant / Architect | October 2005 - July 2006
 
@@ -390,9 +390,9 @@ h| Development Tools:     | Visual Studio, Clearcase, ClearQuest
 |===
 
 [[KVH]]
-== KVH, Tokyo, Japan
+== KVH, Токио, Япония
 
-=== Lead System Architect | October 2003 – September 2005
+=== Lead System Architect | Октябрь 2003 – Сентябрь 2005
 
 I was seconded to a private telecommunications company owned by Fidelity Investments called KVH. At KVH I reported to
 the CIO but also worked closely with the CTO and CFO designing the integration of and supporting the implementation
@@ -419,9 +419,9 @@ h| Development Tools:    | Eclipse, CVS, LoadRunner, QuickTest Pro
 |===
 
 [[Fidelity1]]
-== Fidelity Investments, Dublin, Ireland
+== Fidelity Investments, Дублин, Ирландия
 
-=== Principal Consultant / Architect | June 2000 – September 2003
+=== Principal Consultant / Architect | Июнь 2000 – Сентябрь 2003
 
 I played a leading role in three major product developments:
 
@@ -462,9 +462,9 @@ h| Development Tools:     | Eclipse, Visual {cpp}, Clearcase, LoadRunner, WinRun
 |===
 
 [[IFS]]
-== International Financial Systems, Dublin, Ireland
+== International Financial Systems, Дублин, Ирландия
 
-=== Software Development Manager | August 1999 - May 2000
+=== Software Development Manager | Август 1999 - Май 2000
 
 I joined IFS as the Senior Software Architect to design the architecture for a new margin trading system that would replace the company's existing thick client product offering called MarginMan. MarginMan was developed as a Windows desktop application using {cpp}.
 
@@ -483,9 +483,9 @@ h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 |===
 
 [[ATT2]]
-== AT&T Labs, Redditch, UK
+== AT&T Labs, Реддич, Великобритания
 
-=== Technical Lead (Contract) | October 1998 – July 1999
+=== Technical Lead (Contract) | Октябрь 1998 – Июль 1999
 
 I worked for the IP Technology Organization, which was developing a platform to construct and manage network services called Common Open IP Platform (COIPP). I provided CORBA expertise to the team responsible for implementing the middle-tier components of the provisioning, billing and management systems.
 
@@ -506,9 +506,9 @@ h| Development Tools:     | Visual {cpp}, Sun {cpp}, Clearcase, PVCS
 |===
 
 [[IBM2]]
-== IBM, Dublin, Ireland
+== IBM,   Дублин,   Ирландия
 
-=== Project Lead (Contract), October 1997 – September 1998
+=== Project Lead (Contract), Октябрь 1997 – Октябрь 1998
 
 I worked with the Insurance Solutions Development Centre developing a customer relationship management application for insurance companies called Client Information & Integration System (CIIS).
 
@@ -527,7 +527,7 @@ h| Development Tools:     | Visual {cpp}, Visual SourceSafe, make
 |===
 
 [[Microsoft]]
-== Microsoft, Seattle, WA, USA
+== Microsoft, Сиэттл, штат Вашингтон, США
 
 === Software Engineer (Contractor) | April 1996 – September 1997
 
@@ -542,7 +542,7 @@ h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 |===
 
 [[Lotus]]
-== Lotus, Dublin, Ireland
+== Lotus, Дублин, Ирландия
 
 === Software Engineer (Contract) | September 1995 – March 1996
 
@@ -564,9 +564,9 @@ h| Development Tools:     | Visual {cpp}, PVCS, Lotus Notes
 |===
 
 [[Lehman]]
-== Lehman Brothers, London, UK
+== Lehman Brothers, Лондон, Великобритания
 
-=== Project Lead (Contract), August 1994 – August 1995
+=== Project Lead (Contract), Август 1994 – Август 1995
 
 I developed and maintained applications to support the purchasing, goods inwards and accounting departments of Lehman Brothers in London.
 
@@ -587,9 +587,9 @@ h| Development Tools:     | Borland {cpp}, {csetpp}, PVCS
 |===
 
 [[HP]]
-== Hewlett-Packard, Grenoble, France
+== Hewlett-Packard, Гренобль, Франция
 
-===  Software Engineer (Contract) | April 1994 – July 1994
+===  Software Engineer (Contract) | Апрель 1994 – Июль 1994
 
 I was part of a small team that ported a product called Omnishare to run on a standard IBM compatible PC. Omnishare was a conferencing tool that allowed users to share and annotate documents using the same telephone line for voice and data. It had been originally designed to run on custom hardware.
 
@@ -602,9 +602,9 @@ h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 |===
 
 [[IBM1]]
-== IBM, Dublin, Ireland
+== IBM, Дублин, Ирландия
 
-=== Technical Lead (Contractor) | October 1993 – March 1994
+=== Technical Lead (Contractor) | Октябрь 1993 – Март 1994
 
 I provided consultancy to the team developing a data warehousing tool called DataRefresher. When I joined the team DataRefresher was failing to meet the acceptance criteria set by the QA team due to significant memory leaks, race conditions and inter-process communication issues.
 
@@ -623,7 +623,7 @@ h| Development Tools:     | {csetpp}
 |===
 
 [[BR]]
-=== British Rail, Darlington, UK
+=== British Rail, Дарлингтон, Великобритания
 
 ===  Software Engineer (Contract) | March - September 1993
 
@@ -642,7 +642,7 @@ h| Development Tools:     | Visual {cpp}, PVCS
 |===
 
 [[ATT1]]
-== AT&T Istel, Redditch, UK
+== AT&T Istel, Реддич, Великобритания
 
 === Software Engineer (Contract) | September 1992 – January 1993
 
@@ -664,12 +664,11 @@ h| Development Tools:     | Visual {cpp}, PVCS
 |===
 
 [[Polydata]]
-== Polydata, Dublin Ireland
+== Polydata, Дублин, Ирландия
 
-=== Senior Software Engineer | April 1989 - Aug 1992
+=== Старший инженер-программист | April 1989 - Aug 1992
 
-I designed and developed bespoke applications for petrochemical companies including DOW Chemical, DuPont, ICI, Bayer and Elf Atochem. These applications were searchable electronic catalogues describing the material properties of the plastics manufactured and sold by those companies.
-
+Я проектировал и разрабатывал индивидуальные приложения для нефтехимических компаний, включая DOW Chemical, DuPont, ICI, Bayer и Elf Atochem. Эти приложения представляли собой электронные каталоги с возможностью поиска, описывающие свойства материалов пластмасс, производимых и продаваемых этими компаниями.
 === Achievements
 
 * Consolidated and re-factored the existing source code developed for different customers into a single code base.
