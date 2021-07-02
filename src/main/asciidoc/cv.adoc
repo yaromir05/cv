@@ -25,21 +25,21 @@ Russia
 image:images/me.jpg[]
 |===
 
-I am a self-motivated IT professional with over 30 years hands-on experience developing and delivering solutions for the banking/finance, government, insurance, software, telecommunications and transportation industries on Java and .NET stacks.
+Я целеустремленный ИТ-специалист с более чем 30-летним практическим опытом разработки и предоставления решений для банковской / финансовой, государственной, страховой, программной, телекоммуникационной и транспортной отраслей на стеках Java и .NET.
 
-I have over 15 years project management experience using traditional waterfall-based, iterative and agile software development life cycles. I am a practitioner of the SCRUM agile project management technique.
+У меня более 15 лет опыта управления проектами с использованием традиционных, итеративных и гибких жизненных циклов разработки программного обеспечения, основанных на водопаде. Я практикую технику управления проектами SCRUM agile.
 
-I have experience coordinating development teams based across multiple geographic locations and time zones. I have worked with off shore development teams in Tunisia, India, Singapore and Philippines and I have worked overseas in UK, USA, France, Japan and Tunisia.
+У меня есть опыт координации команд разработчиков из разных географических регионов и часовых поясов. Я работал с командами оффшорных разработчиков в Тунисе, Индии, Сингапуре и Филиппинах, а также работал за рубежом в Великобритании, США, Франции, Японии и Тунисе.
 
-I have been working remotely from Russia since October 2017.
+Работаю удаленно из России с октября 2017 года.
 
-== Work History
+== История работы
 
 [frame=none,grid=none,options="autowidth"]
 |===
 h| Company       h| Period          h| Role
-| <<Synchronoss>> | Jan 16 - Now     |  Инженер-программист(Работа по контракту)
-| <<THBS>>        | Jan 14 - Dec 15  | Руководитель группы портала (Работа по контракту)
+| <<Synchronoss>> | Янв 16 - Ноябрь     |  Инженер-программист(Работа по контракту)
+| <<THBS>>        | Jan 14 -  Дек 15  | Руководитель группы портала (Работа по контракту)
 | <<Daon>>        | Sep 13 - Dec 13  |  Инженер-программист (Работа по контракту)
 | <<Realex>>      | Feb 13 - Aug 13  |  Инженер-программист (Работа по контракту)
 | <<Fujitsu2>>    | Jan 13 - Feb 13  |  Инженер-программист (Работа по контракту)
@@ -71,9 +71,9 @@ h| Company       h| Period          h| Role
 
 === 
 
-I have worked on several of the core services, and many of the shared libraries, of Synchronoss' Personal Cloud product suite (https://synchronoss.com/products/cloud/personal-cloud-solution/) for mobile telecommunications providers such as Verizon and BT.
+Я работал над несколькими основными службами и многими общими библиотеками пакета продуктов Synchronoss Personal Cloud (https://synchronoss.com/products/cloud/personal-cloud-solution/) для поставщиков мобильных телекоммуникаций, таких как Verizon и BT.
 
-* Digital Vault -- provides APIs to manage meta-data about content backed up from users' mobile and desktop devices.
+* В Digital Vault добавил поддержку  семейного доступа, что позволяет членам семьи делиться квотами и контентом..
 
 * Collection Manager -- manages collections of media content for photo albums and music playlists
 
@@ -89,11 +89,11 @@ I have worked on several of the core services, and many of the shared libraries,
 
 * Re-designed the processing pipe-line of the Smart Album component to increase through-put and avoid the need for expensive rollback operations.
 
-* Migrated Message Minder and ATP components to Spring Boot and upgraded JAX-RS implementations to Jersey 2.
+* Компоненты Message Minder и ATP были перенесены в Spring Boot, а реализации JAX-RS обновлены до Jersey 2
 
-* Implemented support for RCS messages in Message Minder.
+* Реализована поддержка сообщений RCS в Message Minder.
 
-* Re-designed the persistence mechanisms in Message Minder to address design flaws in the original product that were leading to data corruption in Cassandra database clusters.
+* Перепроектировал механизмы сохранения в Message Minder для устранения недостатков дизайна в исходном продукте, которые приводили к повреждению данных в кластерах баз данных Cassandra.
 
 * Added support for family sharing to Digital Vault which allows family members to share quota and content.
 
@@ -114,13 +114,13 @@ h| Development Tools:     | Git, Maven, Gradle, JIRA, Bamboo, Confluence, Stash,
 
 === Portal Lead (Contract) | January 2014 - December 2015
 
-I worked on-site with eir (http://www.eir.ie) leading the development, deployment and integration of portal projects for business customers (https://advantagemanager.eir.ie).
+Я работал на месте с eir (http://www.eir.ie), руководя разработкой, развертыванием и интеграцией портальных проектов для бизнес-клиентов (https://advantagemanager.eir.ie).
 
 === Achievements
 
-* Led the deployment and integration of the Loki Portals (http://www.leonidsystems.com/products/lokiportals) self-care portal for the VoIP services of the SIP Trunking, Mobile Extension and Hosted Office projects at eir (http://www.eir.ie).
+* Руководил развертыванием и интеграцией портала самообслуживания Loki Portals (http://www.leonidsystems.com/products/lokiportals) для услуг VoIP проектов SIP Trunking, Mobile Extension и Hosted Office в eir (http: / /www.eir.ie).
 
-* Integrated the Loki Portals with the OpenAM single sign-on platform using SAML 2.0.
+* Интеграция порталов Loki с платформой единого входа OpenAM с использованием SAML 2.0.
 
 * Coordinated between the project owners, suppliers and the security, network and server operations teams.
 
