@@ -120,7 +120,7 @@ h| Development Tools:     | Git, Maven, Gradle, JIRA, Bamboo, Confluence, Stash,
 
 * Руководил развертыванием и интеграцией портала самообслуживания Loki Portals (http://www.leonidsystems.com/products/lokiportals) для услуг VoIP проектов SIP Trunking, Mobile Extension и Hosted Office в eir (http: / /www.eir.ie).
 
-* Интеграция порталов Loki с платформой единого входа OpenAM с использованием SAML 2.0.
+* Integrated the Loki Portals with the OpenAM single sign-on platform using SAML 2.0.
 
 * Coordinated between the project owners, suppliers and the security, network and server operations teams.
 
@@ -263,76 +263,77 @@ I was taken on by D&B to be an architect on user interface and input handler com
 [[Fujitsu1]]
 == Fujitsu, Дублин, Ирландия
 
-=== SOA Architect (Contract) | June 2010 – April 2011
+=== SOA прогграмист (Контракт) | Июнь 2010 – Апрель 2011
 
-At Fujitsu I designed and implemented solutions for the Irish Department of Transport and the Irish Courts Service
-using the principles of Service Oriented Architecture. 
+В Fujitsu я разработал и внедрил решения для Министерства транспорта Ирландии и Службы судов Ирландии.
+используя принципы сервис-ориентированной архитектуры.
 
-=== Achievements
+=== Достижения
 
-* Designed the integration for the Department of Transport with its equivalents in other EU jurisdictions to share driver, vehicle and owner information using Oracle SOA Suite 10g.
+* Разработал интеграцию для Департамента транспорта с его аналогами в других юрисдикциях ЕС для обмена информацией о водителях, транспортных средствах и владельцах с использованием Oracle SOA Suite 10g.
 
-* Implemented web services using Oracle SOA Suite 10g to allow the Road Safety Authority and Taxi Regulator access the driver and vehicle database maintained by the Department of Transport.
+* Реализованы веб-службы с использованием Oracle SOA Suite 10g, чтобы позволить Управлению безопасности дорожного движения и регулятору такси получить доступ к базе данных водителей и транспортных средств, поддерживаемой Министерством транспорта.
 
-* Implemented a web service and front end to allow vehicle owners recover the PIN they need to pay motor tax online.
+* Реализована веб-служба и интерфейс, позволяющие владельцам транспортных средств восстанавливать PIN-код, необходимый для оплаты налога на автомобили в Интернете.
 
-* Proposed the development toolset and open source technology stack for the Irish Courts Service.
+* Предложил набор инструментов для разработки и стек технологий с открытым исходным кодом для Службы судов Ирландии.
 
-* Designed and led the implementation a proof of concept for the Irish Courts Service to allow plaintiffs seek judgements for liquidated sums online using JBoss, Spring, Spring Web Services, Hibernate and JBoss ESB.
+* Разработал и руководил реализацией концепции Службы судов Ирландии, позволяющей истцам добиваться судебных решений в отношении ликвидированных сумм в Интернете с использованием JBoss, Spring, Spring Web Services, Hibernate и JBoss ESB.
 
-* Upgraded the integration of Murex trading and SWIFT settlement systems at KBC Bank.
+* Обновлена интеграция торговых систем Murex и расчетных систем SWIFT в KBC Bank.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Java, Shell Scripting, BPEL, Javascript
-h| Frameworks:            | Spring, Spring Security, Spring Webflow, Spring Web Services, Hibernate, EHCache, jBPM, Drools
-h| Target Environments:   | Solaris, WebSphere MQ, OC4J, JBoss, Oracle SOA Suite, JBossESB, Apache, OpenLDAP, Active Directory, MySQL, Ingres, Oracle
-h| Development Tools:     | Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Grinder, JMeter, Benerator, Eclipse
+h| Языки прогграмированрия: | Java, Shell Scripting, BPEL, Javascript
+h| Фреймворки:            | Spring, Spring Security, Spring Webflow, Spring Web Services, Hibernate, EHCache, jBPM, Drools
+h| Целевые среды:   | Solaris, WebSphere MQ, OC4J, JBoss, Oracle SOA Suite, JBossESB, Apache, OpenLDAP, Active Directory, MySQL, Ingres, Oracle
+h| Инструменты разработки:     | Maven, ANT, Fisheye, Bamboo, Crucible, Proximity, Grinder, JMeter, Benerator, Eclipse
 |===
 
 [[Corvil]]
 === Corvil,  Дублин, Ирландия
 
-=== Software Engineer (Contract) | October 2009 - June 2010
+=== Инженер-программист (Контракт) | Октябрь 2009 - Июнь 2010
 
-I developed decoders for Corvil (http://www.corvil.com) to handle market data feed, trading and middle-ware protocols
-in order to perform gap detection and message correlation within their latency analysis tools.
+Я разработал декодеры для Corvil (http://www.corvil.com) для обработки рыночных данных, торговых и промежуточных протоколов.
+для обнаружения пропусков и корреляции сообщений в своих инструментах анализа задержки.
 
-=== Achievements
+=== Достижения
 
-* Implemented a generic template driven decoder that exceeded the performance targets.
+* Реализован универсальный управляемый шаблонами декодер, который превысил целевые показатели производительности.
 
-* Implemented decoders to handle protocols for the Deutsche Börse, London, NASDAQ, NYSE, Tokyo and Osaka exchanges.
+* Реализованы декодеры для обработки протоколов бирж Deutsche Börse, London, NASDAQ, NYSE, Tokyo и Osaka.
 
-* Implemented a decoder for Tibco Rendezvous by reverse engineering sample traffic.
+* Реализован декодер для Tibco Rendezvous путем обратного проектирования образцов трафика.
 
 [%autowidth,frame=none,grid=none]
+
 |===
-h| Programming Languages: | {cpp}, PERL, Python
-h| Frameworks:            | Boost, STL, Expat, Xerces,
-h| Target Environments:   | BSD Linux
-h| Development Tools:     | g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Valgrind
+h| Языки прогграмированрия: | {cpp}, PERL, Python
+h| Фреймворки:            | Boost, STL, Expat, Xerces,
+h| Целевые среды:   | BSD Linux
+h| Инструменты разработки:     | g++, Subversion, JIRA, Fisheye, Bamboo, Crucible, Valgrind
 |===
 
 [[Vodafone]]
 == Vodafone, Лондон, Великобритания
 
-=== Technical Architect (Contract), Feb 09 – Sep 09
+=== Технический Архитектор (Контракт), Февраль 09 – Сентябрь 09
 
-I was the technical architect for My Web (http://myweb.vodafone.com), Vodafone’s new mobile portal that evolved into Vodafone 360. It was originally launched for Egypt, Germany, Greece, Ireland, Italy, Netherlands, Portugal, Spain, South Africa, Turkey and UK in 2009.
+Я был техническим архитектором My Web (http://myweb.vodafone.com), нового мобильного портала Vodafone, который превратился в Vodafone 360. Первоначально он был запущен для Египта, Германии, Греции, Ирландии, Италии, Нидерландов, Португалии, Испании. , Южная Африка, Турция и Великобритания в 2009 году.
 
-=== Achievements
+=== Достижения  
 
-* Re-designed the software architecture to ensure the system would meet non-functional performance and stability requirements to support an initial active user base  of 7.5m with a peak load of 1,600 page views per second
+* Переработана архитектура программного обеспечения, чтобы обеспечить соответствие системы нефункциональным требованиям к производительности и стабильности для поддержки начальной активной пользовательской базы 7,5 млн с пиковой нагрузкой 1600 просмотров страниц в секунду.
 
-* Migrated the build and improved the automation from ANT to Maven 2
+* Перенесена сборка и улучшена автоматизация с ANT на Maven 2.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Java, PHP, Javascript
-h| Frameworks:            | Spring, Spring LDAP, Struts, Hibernate, EHCache, JGroups, Apache Commons, OSGi, Ext/JS
-h| Target Environments:   | JBoss AS, Apache Felix, Apache HTTPD Server, Oracle 10g, Solaris
-h| Development Tools:     | Maven, Hudson, Archiva, Eclipse, Subversion, Grinder, JProbe, Mercury Quality Centre
+h| Языки програмированрия: | Java, PHP, Javascript
+h| Целевые среды:    | JBoss AS, Apache Felix, Apache HTTPD Server, Oracle 10g, Solaris
+h| Фреймворки:            | Spring, Spring LDAP, Struts, Hibernate, EHCache, JGroups, Apache Commons, OSGi, Ext/JS
+h| Инструменты разработки:     | Maven, Hudson, Archiva, Eclipse, Subversion, Grinder, JProbe, Mercury Quality Centre
 |===
 
 [[TerraNua]]
@@ -340,32 +341,32 @@ h| Development Tools:     | Maven, Hudson, Archiva, Eclipse, Subversion, Grinder
 
 === Director / Architect | Август 2006 – Июль 2008
 
-I was mainly responsible for designing the architecture and overseeing the implementation of MyComplianceOffice (http://www.mycomplianceoffice.com/). MyComplianceOffice is a “Software as a Service” (SaaS) hosted/multi-tenant solution that allows US-based registered investment advisors and hedge funds manage their compliance related business processes. MyComplianceOffice was built using portal server, workflow and document management technologies.
+В основном я отвечал за разработку архитектуры и контроль за реализацией MyComplianceOffice (http://www.mycomplianceoffice.com/). MyComplianceOffice - это хостинговое / многопользовательское решение «Программное обеспечение как услуга» (SaaS), которое позволяет зарегистрированным в США инвестиционным консультантам и хедж-фондам управлять своими бизнес-процессами, связанными с соблюдением нормативных требований. MyComplianceOffice был построен с использованием сервера портала, технологий рабочего процесса и управления документами.
 
 === Achievements
 
-* Designed the physical and software architecture for MyComplianceOffice.
+* Разработал физическую и программную архитектуру для MyComplianceOffice.
 
-* Recruited and led the development team for release 1.0.
+* Нанял и возглавил команду разработчиков для выпуска 1.0.
 
-* Led the architecture team.
+* Возглавлял команду архитекторов.
 
-* Established the engineering practices.
+* Установлены инженерные практики.
 
-* Introduced SCRUM to manage the development phase of the project.
+* Введен SCRUM для управления этапом разработки проекта
 
-* Recruited and mentored an offshore development team in Tunisia.
+* Нанял и руководил командой оффшорных разработчиков в Тунисе.
 
-* Introduced a Wiki to manage developer documentation.
+* Введена Wiki для управления документацией для разработчиков.
 
-* Introduced continuous integration (using Continuum).
+* Введена непрерывная интеграция (с использованием Continuum).
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Java, Javascript
-h| Frameworks:            | Spring, Acegi, Spring Web Services, Apache Axis, Spring LDAP, Hibernate, Compass, Lucene, Quartz, Drools, JUG, CGLIB, EhCache, Shark, Jetspeed 2
-h| Target Environments:   | IBM WebSphere, Netscape iPlanet, SunONE Directory Server, Documentum, Oracle 10g, Solaris
-h| Development Tools:     | Maven, Continuum, Archiva, Eclipse, Clearcase, Apache HTTP Server, Apache Tomcat, Oracle XE, Windows, Sharepoint, JIRA, LoadRunner, QuickTest Pro, MediaWiki
+h| Языки програмированрия: | Java, Javascript
+h|  Фреймворки:           | Spring, Acegi, Spring Web Services, Apache Axis, Spring LDAP, Hibernate, Compass, Lucene, Quartz, Drools, JUG, CGLIB, EhCache, Shark, Jetspeed 2
+h| Целевые среды:   | IBM WebSphere, Netscape iPlanet, SunONE Directory Server, Documentum, Oracle 10g, Solaris
+h| Инструменты разработки:     | Maven, Continuum, Archiva, Eclipse, Clearcase, Apache HTTP Server, Apache Tomcat, Oracle XE, Windows, Sharepoint, JIRA, LoadRunner, QuickTest Pro, MediaWiki
 |===
 
 [[Fidelity2]]
@@ -373,13 +374,13 @@ h| Development Tools:     | Maven, Continuum, Archiva, Eclipse, Clearcase, Apach
 
 === Information Security Consultant / Architect | October 2005 - July 2006
 
-I was the architect supporting teams responsible for developing and maintaining Fidelity Investments' enterprise-wide automated access provisioning, risk management and reporting system. The core components were an intranet facing application for raising and processing access requests and workflow engine that integrated the various 3rd party solutions and automate the provisioning processes. The intranet facing application was developed using ASP.NET and the workflow engine was implemented using C# and the NxBRE rules engine.
+Я был архитектором, поддерживающим группы, ответственные за разработку и поддержку корпоративной системы автоматического предоставления доступа, управления рисками и отчетности Fidelity Investments. Основными компонентами были приложение для внутренней сети для создания и обработки запросов доступа и механизм рабочего процесса, который интегрировал различные сторонние решения и автоматизирует процессы предоставления. Приложение для внутренней сети было разработано с использованием ASP.NET, а механизм рабочего процесса был реализован с использованием C # и механизма правил NxBRE.
 
 === Achievements
 
-* Introduced Test Driven Development (TDD) to the automated provisioning team.
+* Введена разработка через тестирование (TDD) для группы автоматического обеспечения.
 
-* Designed and implemented a new automation engine to provision user access requests.
+* РазработаЛ и внедрИЛ новый механизм автоматизации для обработки запросов доступа пользователей.\
 
 [%autowidth,frame=none,grid=none]
 |===
