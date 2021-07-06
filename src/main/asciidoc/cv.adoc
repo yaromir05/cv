@@ -380,43 +380,43 @@ h| Инструменты разработки:     | Maven, Continuum, Archiva,
 
 * Введена разработка через тестирование (TDD) для группы автоматического обеспечения.
 
-* РазработаЛ и внедрИЛ новый механизм автоматизации для обработки запросов доступа пользователей.\
+* РазработаЛ и внедрил новый механизм автоматизации для обработки запросов доступа пользователей.\
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | C#
-h| Frameworks:            | .NET, ASP.NET, NxBRE
-h| Target Environments:   | IIS, Active Directory, Oracle 9i, Sun Identity Manager, BMC Enterprise Security Station, Windows 2003 Server, Solaris
-h| Development Tools:     | Visual Studio, Clearcase, ClearQuest
+h| Языки програмированрия: | C#
+h| Фреймворки:            | .NET, ASP.NET, NxBRE
+h| Целевые среды:   | IIS, Active Directory, Oracle 9i, Sun Identity Manager, BMC Enterprise Security Station, Windows 2003 Server, Solaris
+h| Инструменты разработки:     | Visual Studio, Clearcase, ClearQuest
 |===
 
 [[KVH]]
 == KVH, Токио, Япония
 
-=== Lead System Architect | Октябрь 2003 – Сентябрь 2005
+=== Ведущий системный архитектор | Октябрь 2003 – Сентябрь 2005
 
-I was seconded to a private telecommunications company owned by Fidelity Investments called KVH. At KVH I reported to
-the CIO but also worked closely with the CTO and CFO designing the integration of and supporting the implementation
-of Business and Operations Support Systems. The majority of the applications at KVH were deployed on Windows
-based platforms.
+Меня направили в частную телекоммуникационную компанию KVH, принадлежащую Fidelity Investments. В КВХ я подчинялся
+ИТ-директор, но также тесно сотрудничал с техническим и финансовым директорами, разрабатывая интеграцию и поддерживая внедрение
+систем поддержки бизнеса и операционной деятельности. Большинство приложений на KVH были развернуты на Windows.
+платформы на базе.   
 
 === Achievements
 
-* Created and maintained the blueprint and roadmap for the overall architecture of the OSS/BSS platform.
+* Создал и поддерживал план и дорожную карту для общей архитектуры платформы OSS / BSS.
 
-* Conducted product evaluations and engaged in vendor negotiations.
+* Проводил оценку продуктов и вел переговоры с поставщиками.
 
-* Designed and supported the development of eKVH (http://ekvh.co.jp/) - a Business to Consumer (B2C) portal developed
-  using BEA WebLogic Portal by an outsourced team in India.
+* Разработал и поддержал разработку eKVH (http://ekvh.co.jp/) - разработан портал B2C.
+  с использованием BEA WebLogic Portal командой из Индии.
 
-* Designed and developed a Business to Employee (B2E) portal implemented in Struts.
+* Спроектировал и разработал портал Business to Employee (B2E), реализованный в Struts. 
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Java
-h| Frameworks:            | Struts, Apache FOP, Hibernate, Velocity
-h| Target Environments:  | BEA WebLogic Portal, Tomcat, webMethods, Siebel, Oracle eBusiness Suite, Portal Infranet, Micromuse Netcool, Infovista
-h| Development Tools:    | Eclipse, CVS, LoadRunner, QuickTest Pro
+h| Языки програмированрия: | Java
+h| Фреймворки:            | Struts, Apache FOP, Hibernate, Velocity
+h| Целевые среды:  | BEA WebLogic Portal, Tomcat, webMethods, Siebel, Oracle eBusiness Suite, Portal Infranet, Micromuse Netcool, Infovista
+h| Инструменты разработки:   | Eclipse, CVS, LoadRunner, QuickTest Pro
 |===
 
 [[Fidelity1]]
@@ -488,7 +488,7 @@ h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 
 === Technical Lead (Contract) | Октябрь 1998 – Июль 1999
 
-I worked for the IP Technology Organization, which was developing a platform to construct and manage network services called Common Open IP Platform (COIPP). I provided CORBA expertise to the team responsible for implementing the middle-tier components of the provisioning, billing and management systems.
+Я реализовал облегченный брокер объектных запросов для Windows, который обеспечил межпроцессное взаимодействие между процессами на персональном компьютере и с удаленными процессами, запущенными на серверах Unix. Брокер объектных запросов предшествовал общей архитектуре посредника объектных запросов (CORBA) и был основан на усовершенствованной архитектуре сетевых систем (ANSA).
 
 === Achievements
 
@@ -607,8 +607,8 @@ h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 
 === Technical Lead (Contractor) | Октябрь 1993 – Март 1994
 
-I provided consultancy to the team developing a data warehousing tool called DataRefresher. When I joined the team DataRefresher was failing to meet the acceptance criteria set by the QA team due to significant memory leaks, race conditions and inter-process communication issues.
-
+Я консультировал команду, разрабатывающую инструмент хранения данных под названием DataRefresher. Когда я присоединился к команде, DataRefresher не соответствовал критериям приемлемости, установленным командой QA, из-за значительных утечек памяти, условий гонки и проблем межпроцессного взаимодействия.
+       
 === Achievements
 
 * I identified the sources of all major defects that had been preventing the QA team accept a build.
@@ -647,11 +647,11 @@ h| Development Tools:     | Visual {cpp}, PVCS
 
 === Software Engineer (Contract) | September 1992 – January 1993
 
-I implemented a light-weight object request broker for Windows that allowed inter-process communication between processes on a personal computer and with remote processes running on Unix servers. The object request broker pre-dated Common Object Request Broker Architecture (CORBA) and was based on Advanced Network Systems Architecture (ANSA).
+Я реализовал облегченный брокер объектных запросов для Windows, который обеспечил межпроцессное взаимодействие между процессами на персональном компьютере и с удаленными процессами, запущенными на серверах Unix. Брокер объектных запросов предшествовал общей архитектуре посредника объектных запросов (CORBA) и был основан на усовершенствованной архитектуре сетевых систем (ANSA).
 
 === Achievements
 
-* Developed the inter-process communication for co-located Windows applications using Dynamic Data Exchange (DDE).
+* Developed the inter-process communicatio n for co-located Windows applications using Dynamic Data Exchange (DDE).
 
 * Developed the client-side communication between the Windows applications and server processes over a serial
   connection.
@@ -672,16 +672,16 @@ h| Development Tools:     | Visual {cpp}, PVCS
 Я проектировал и разрабатывал индивидуальные приложения для нефтехимических компаний, включая DOW Chemical, DuPont, ICI, Bayer и Elf Atochem. Эти приложения представляли собой электронные каталоги с возможностью поиска, описывающие свойства материалов пластмасс, производимых и продаваемых этими компаниями.
 === Achievements
 
-* Consolidated and re-factored the existing source code developed for different customers into a single code base.
+* Консолидация и реорганизация существующего исходного кода, разработанного для разных клиентов, в единую кодовую базу.
 
-* Automated the release engineering process.
+* Автоматизирован процесс разработки релизов. 
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Pascal, C, {cpp}, Assembler
-h| Frameworks:            |
-h| Target Environments:   | MS-DOS
-h| Development Tools:     | Turbo Pascal, Turbo {cpp}, RCS
+h| Языки программирования: | Pascal, C, {cpp}, Assembler
+h| Фреймворки:            |
+h| Целевые среды:   | MS-DOS
+h| Инструменты разработки:     | Turbo Pascal, Turbo {cpp}, RCS
 |===
 
 == Qualifications & Training
