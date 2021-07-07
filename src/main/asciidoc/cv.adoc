@@ -422,37 +422,37 @@ h| Инструменты разработки:   | Eclipse, CVS, LoadRunner, Qu
 [[Fidelity1]]
 == Fidelity Investments, Дублин, Ирландия
 
-=== Principal Consultant / Architect | Июнь 2000 – Сентябрь 2003
+=== Главный консультант / архитектор | Июнь 2000 - Сентябрь 2003
 
-I played a leading role in three major product developments:
+Я сыграл ведущую роль в трех основных разработках продукта: 
 
-* PlanViewer (http://www.planviewer.co.uk/) is provided by Fidelity International Limited (FIL) to allow members, sponsors and administrators of defined contributions pension schemes to view balances, review transaction history, switch out of existing investments or change their future contribution mix. PlanViewer was a J2EE application developed using Struts.
+*lanViewer (http://www.planviewer.co.uk/) предоставляется Fidelity International Limited (FIL), чтобы позволить участникам, спонсорам и администраторам пенсионных схем с установленными взносами просматривать балансы, просматривать историю транзакций, отключаться от существующих инвестиций или изменить свой будущий состав взносов. PlanViewer - это приложение J2EE, разработанное с использованием Struts.
 
-* ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) is a desktop trading application provided by Fidelity eBusiness for the high net worth and active trader market segments to access their brokerage accounts, place trades, receive streaming quotes and review market news. ActiveTrader Pro was a Windows desktop application developed in {cpp} using ActiveX components.
+* ActiveTrader Pro (http://personal.fidelity.com/accounts/activetrader) - это настольное торговое приложение, предоставляемое Fidelity eBusiness для состоятельных и активных сегментов рынка трейдеров для доступа к их брокерским счетам, размещения сделок, получения потоковых котировок и просматривать новости рынка. ActiveTrader Pro был настольным приложением Windows, разработанным в {cpp} с использованием компонентов ActiveX.
 
-* Fidelity Online Xpress+ (FOX+) was Fidelity Investments' original desktop trading application available to all customer segments. FOX+ allowed customers to access their accounts, place trades, receive static quotes and review market news. FOX+ was a Windows desktop application developed in {cpp}.
+* Fidelity Online Xpress + (FOX +) было оригинальным настольным торговым приложением Fidelity Investments, доступным для всех клиентских сегментов. FOX + позволял клиентам получать доступ к своим счетам, совершать сделки, получать статические котировки и просматривать новости рынка. FOX + было настольным приложением Windows, разработанным в {cpp}.
 
-=== Achievements
+=== Достижения
 
-* I was a member of the Development Audit Team (DAT) which audited projects to ensure they adhered to best practices from a project management perspective during the project initiation, requirements gathering and solution design phases.
+* Я был членом группы аудита разработки (DAT), которая проверяла проекты, чтобы убедиться, что они придерживаются лучших практик с точки зрения управления проектами на этапах инициации проекта, сбора требований и разработки решения.
 
-* I was a founding member of the Technical Review Board (TRB) which reviewed the proposed architectures and detailed designs of projects to ensure that those projects were technically feasible and following best practices
+* Я был одним из основателей Совета по техническому обзору (TRB), который изучал предлагаемые архитектуры и подробные проекты проектов, чтобы убедиться, что эти проекты технически осуществимы и соответствуют лучшим практикам.
 
-* Ported PlanViewer from a proprietary model-view-controller framework to Struts 1.1.
+* PlanViewer перенесен из проприетарного фреймворка модель-представление-контроллер в Struts 1.1.
 
-* Led the project team in Dublin that implemented many of the key components of ActiveTrader Pro.
+* Руководил командой проекта в Дублине, которая реализовала многие ключевые компоненты ActiveTrader Pro.
 
-* Designed and implemented the framework for the user interface of ActiveTrader Pro.
+* Разработан и реализован фреймворк для пользовательского интерфейса ActiveTrader Pro.
 
-* Achieved 4.5 out of 5 customer satisfaction ratings from the Active Trader Pro project stakeholders.
+* Получил 4,5 из 5 оценок удовлетворенности клиентов от участников проекта Active Trader Pro.
 
-* Streamlined the configuration management and release engineering practices for FOX+.
+* Оптимизировано управление конфигурацией и методы подготовки релизов для FOX +.
 
-* Dramatically reduced the size of the downloadable product installer for FOX+ from 12MB to 3MB.
+* Значительно уменьшен размер загружаемого установщика продукта для FOX + с 12 МБ до 3 МБ.
 
-* Successfully delivered quarterly releases of FOX+.
+* Успешно доставлены ежеквартальные выпуски FOX +.
 
-* Achieved 5 out of 5 customer satisfaction ratings from the FOX+ project stakeholders.
+* Получил 5 из 5 оценок удовлетворенности клиентов по проекту FOX +
 
 [%autowidth,frame=none,grid=none]
 |===
@@ -465,15 +465,15 @@ h| Development Tools:     | Eclipse, Visual {cpp}, Clearcase, LoadRunner, WinRun
 [[IFS]]
 == International Financial Systems, Дублин, Ирландия
 
-=== Software Development Manager | Август 1999 - Май 2000
+=== Менеджер по разработке программного обеспечения | Август 1999 - Май 2000
 
-I joined IFS as the Senior Software Architect to design the architecture for a new margin trading system that would replace the company's existing thick client product offering called MarginMan. MarginMan was developed as a Windows desktop application using {cpp}.
+Я присоединился к IFS в качестве старшего архитектора программного обеспечения, чтобы спроектировать архитектуру новой системы маржинальной торговли, которая заменит существующий продукт компании для толстых клиентов под названием MarginMan. MarginMan был разработан как настольное приложение Windows с использованием {cpp}.
 
-=== Achievements
+=== Достижения
 
-* Designed the architecture for a CORBA based n-tier collateralized margin trading system.
+* Разработал архитектуру для многоуровневой системы маржинальной торговли на основе CORBA.
 
-* Took on the role of Software Development Manager with responsibility for teams based in Dublin, Singapore and Manila
+* Взял на себя роль менеджера по разработке программного обеспечения, отвечая за команды, базирующиеся в Дублине, Сингапуре и Маниле.
 
 [%autowidth,frame=none,grid=none]
 |===
@@ -486,182 +486,181 @@ h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 [[ATT2]]
 == AT&T Labs, Реддич, Великобритания
 
-=== Technical Lead (Contract) | Октябрь 1998 – Июль 1999
+=== Технический руководитель (контракт) | Октябрь 1998 - Июль 1999
 
-Я реализовал облегченный брокер объектных запросов для Windows, который обеспечил межпроцессное взаимодействие между процессами на персональном компьютере и с удаленными процессами, запущенными на серверах Unix. Брокер объектных запросов предшествовал общей архитектуре посредника объектных запросов (CORBA) и был основан на усовершенствованной архитектуре сетевых систем (ANSA).
+Я реализовал облегченный брокер запросов для Windows, который обеспечил межпроцессное взаимодействие между процессами на персональном компьютере и удаленными процессами, запущенными на серверах Unix. Брокер объектных запросов был основан на усовершенствованной сети сетевых систем (ANSA).
 
-=== Achievements
+=== Достижения
 
-* Ported the existing components from Orbix to VisiBroker.
+* Портировал существующие компоненты из Orbix в VisiBroker.
 
-* Assisted the team that ported the existing components from Windows to Solaris.
+* Оказал помощь команде, которая перенесла существующие компоненты с Windows на Solaris.
 
-* Migrated the team’s version control solution from PVCS to Clearcase.
+* Перенесли решение команды по контролю версий с PVCS на Clearcase. 
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Java, {cpp}
-h| Frameworks:            | Orbix, VisiBroker
-h| Target Environment:    | MQSeries, Oracle, Solaris
-h| Development Tools:     | Visual {cpp}, Sun {cpp}, Clearcase, PVCS
+h| Языки программирования: | Java, {cpp}
+h| Фреймворки:            | Orbix, VisiBroker
+h| Целевые среды:    | MQSeries, Oracle, Solaris
+h| Инструменты разработки:     | Visual {cpp}, Sun {cpp}, Clearcase, PVCS
 |===
 
 [[IBM2]]
 == IBM,   Дублин,   Ирландия
 
-=== Project Lead (Contract), Октябрь 1997 – Октябрь 1998
+=== Руководитель проекта (контракт), Октябрь 1997 - Октябрь 1998
 
-I worked with the Insurance Solutions Development Centre developing a customer relationship management application for insurance companies called Client Information & Integration System (CIIS).
+Я работал с Центром разработки страховых решений, разрабатывая приложение для управления взаимоотношениями с клиентами для страховых компаний под названием Client Information & Integration System (CIIS).
 
-=== Achievements
+=== Достижения
 
-* Led the team that designed the overall architecture for CIIS.
+* Возглавлял команду, которая разработала общую архитектуру CIIS.
 
-* Led the team developed the middle-tier components.
+* Возглавлял команду, разрабатывающую компоненты среднего звена.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Java, {cpp}
-h| Frameworks:            | Swing, Orbix, OrbixWeb
-h| Target Environment:    | DB2, Solaris
-h| Development Tools:     | Visual {cpp}, Visual SourceSafe, make
+h| Языки программирования: | Java, {cpp}
+h| Фреймворки:            | Swing, Orbix, OrbixWeb
+h| Целевые среды:    | DB2, Solaris
+h| Инструменты разработки:     | Visual {cpp}, Visual SourceSafe, make
 |===
 
 [[Microsoft]]
 == Microsoft, Сиэттл, штат Вашингтон, США
 
-=== Software Engineer (Contractor) | April 1996 – September 1997
+=== Разработчик программного обеспечения (подрядчик) | Апрель 1996 г. - сентябрь 1997 г.
 
-I worked for the Infrastructure and Automation Tools team. I was responsible for developing agents that were installed on file, database, e-mail, web and proxy servers to collect usage metrics. Those metrics were used to predict future server and disk space needs. The agents were installed on over 3,000 servers world-wide.
+Я работал в команде инструментов инфраструктуры и автоматизации. Я отвечал за разработку агентов, которые устанавливались на файловые серверы, базы данных, электронную почту, веб-серверы и прокси-серверы для сбора показателей использования. Эти показатели использовались для прогнозирования будущих потребностей в дисковом и серверном пространстве. Агенты были установлены на более чем 3000 серверов по всему миру.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | {cpp}
-h| Frameworks:            | MFC
-h| Target Environments:   | SQL Server, Windows NT
-h| Development Tools:     | Visual {cpp}, Visual SourceSafe
+h| Языки программирования: | {cpp}
+h| Фреймворки:            | MFC
+h| Целевые среды:   | SQL Server, Windows NT
+h| Инструменты разработки :     | Visual {cpp}, Visual SourceSafe
 |===
 
 [[Lotus]]
 == Lotus, Дублин, Ирландия
 
-=== Software Engineer (Contract) | September 1995 – March 1996
+=== Инженер-программист (контракт) | Сентябрь 1995 г. - март 1996 г.
 
-I worked for the Global QA team that developed test, automation and localization tools used to test and localize Lotus'
-office application suite called Lotus SmartSuite.
+Я работал в группе Global QA, которая разработала инструменты тестирования, автоматизации и локализации, используемые для тестирования и локализации Lotus.
+офисный пакет под названием Lotus SmartSuite.
 
-=== Achievements
+=== Достижения
 
-* Developed plug-ins to instrument Lotus' custom controls.
+* Разработаны плагины для настройки пользовательских элементов управления Lotus.
 
-* Unified the code-base to eliminate the need for separate builds for each flavour of Windows.
+* Единая кодовая база, устраняющая необходимость в отдельных сборках для каждой разновидности Windows.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | {cpp}
-h| Frameworks:            |
-h| Target Environments:   | Windows 3.x/95/NT
-h| Development Tools:     | Visual {cpp}, PVCS, Lotus Notes
+h| Языки программирования: | {cpp}
+h| Фрейворки:  |
+h| Целевые среды:   | Windows 3.x/95/NT
+h| Инструменты разработки:     | Visual {cpp}, PVCS, Lotus Notes
 |===
 
 [[Lehman]]
 == Lehman Brothers, Лондон, Великобритания
 
-=== Project Lead (Contract), Август 1994 – Август 1995
+=== Руководитель проекта (контракт), Август 1994 – Август 1995
 
-I developed and maintained applications to support the purchasing, goods inwards and accounting departments of Lehman Brothers in London.
+Я разработал и поддерживал приложения для поддержки отделов закупок, доставки товаров и бухгалтерского учета Lehman Brothers в Лондоне.
 
-=== Achievements
+=== Достижения
 
-* Recruited and led the development team.
+* Набрал и возглавил команду разработчиков.
 
-* Ported existing applications from OS/2 to Windows 3.x.
+* Портированы существующие приложения из OS / 2 в Windows 3.x.
 
-* Carried out maintenance and implemented enhancements to meet changing business practices.
+* Проведено техническое обслуживание и внесены улучшения в соответствии с изменяющейся деловой практикой.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | {cpp}
-h| Frameworks:            | Object Windows Library
-h| Target Environments:   | Lotus Notes, Sybase, Windows 3.x, OS/2
-h| Development Tools:     | Borland {cpp}, {csetpp}, PVCS
+h| Языки программироввания: | {cpp}
+h| Фреймворки:            | Object Windows Library
+h| Целевые среды:   | Lotus Notes, Sybase, Windows 3.x, OS/2
+h| Инструменты разработки:     | Borland {cpp}, {csetpp}, PVCS
 |===
 
 [[HP]]
 == Hewlett-Packard, Гренобль, Франция
 
-===  Software Engineer (Contract) | Апрель 1994 – Июль 1994
+=== Инженер-программист (контракт) | Апрель 1994 - Июль 1994
 
-I was part of a small team that ported a product called Omnishare to run on a standard IBM compatible PC. Omnishare was a conferencing tool that allowed users to share and annotate documents using the same telephone line for voice and data. It had been originally designed to run on custom hardware.
+Я был частью небольшой команды, которая портировала продукт под названием Omnishare для работы на стандартном IBM-совместимом ПК. Omnishare был инструментом конференц-связи, который позволял пользователям обмениваться документами и комментировать их, используя одну и ту же телефонную линию для передачи голоса и данных. Первоначально он был разработан для работы на нестандартном оборудовании.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | {cpp}
-h| Frameworks:            |  MFC
-h| Target Environments:   | Windows 3.x
-h| Development Tools:     | Visual {cpp}, Visual SourceSafe
+h| Языки программирования: | {cpp}
+h| Фреймворки:            |  MFC
+h| Целевые среды:   | Windows 3.x
+h| Инструменты разриаботки:     | Visual {cpp}, Visual SourceSafe
 |===
 
 [[IBM1]]
 == IBM, Дублин, Ирландия
 
-=== Technical Lead (Contractor) | Октябрь 1993 – Март 1994
+=== Технический руководитель (подрядчик) | Октябрь 1993 – Март 1994
 
 Я консультировал команду, разрабатывающую инструмент хранения данных под названием DataRefresher. Когда я присоединился к команде, DataRefresher не соответствовал критериям приемлемости, установленным командой QA, из-за значительных утечек памяти, условий гонки и проблем межпроцессного взаимодействия.
-       
-=== Achievements
 
-* I identified the sources of all major defects that had been preventing the QA team accept a build.
+=== Достижения
 
-* Re-introduced release engineering processes that had been abandoned by the development team.
+* Я определил источники всех основных дефектов, которые мешали команде QA принять сборку.
+
+* Вновь введены процессы подготовки релизов, от которых отказалась команда разработчиков.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | {cpp}
-h| Frameworks:            |
-h| Target Environments:   | OS/2, DB2, Communications Manager
-h| Development Tools:     | {csetpp}
+h| Языки программирования: | {cpp}
+h| Фреймворки:            |
+h| Целевые среды:   | OS/2, DB2, Communications Manager
+h| Инструменты разработки:     | {csetpp}
 |===
 
 [[BR]]
 === British Rail, Дарлингтон, Великобритания
 
-===  Software Engineer (Contract) | March - September 1993
+===  Инженер по программному обеспечению (к онтракт) | Март - сентябрь 1993 г.
 
-I was part of the team that developed a client-server application called Advanced Transmanche Operations Management System (ATOMS). ATOMS was the passenger booking and rolling stock management system developed for British Rail, SNCF France and SNCF Belgium to operate services running through the Euro Tunnel.
+Я был частью команды, которая разработала клиент-серверное приложение под названием Advanced Transmanche Operations Management System (ATOMS). ATOMS - это система бронирования пассажиров и управления подвижным составом, разработанная для British Rail, SNCF France и SNCF Belgium для обслуживания рейсов, проходящих через Евротуннель.
 
-=== Achievements
+=== Достижения
 
-* Designed and implemented the framework for the ATOMS user interface.
-
+* Разработан и реализован фреймворк для пользовательского интерфейса ATOMS.
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | {cpp}
-h| Frameworks:            |  MFC
-h| Target Environments:   | Windows 3.x, Oracle
-h| Development Tools:     | Visual {cpp}, PVCS
+h| Языки программирования: | {cpp}
+h| Фреймворки:            |  MFC
+h| Целевые среды:   | Windows 3.x, Oracle
+h| Инструменты разработки:     | Visual {cpp}, PVCS
 |===
 
 [[ATT1]]
 == AT&T Istel, Реддич, Великобритания
 
-=== Software Engineer (Contract) | September 1992 – January 1993
+=== Инжинер-программист (контракт) | Сентябрь 1992 – Январь 1993
 
-Я реализовал облегченный брокер объектных запросов для Windows, который обеспечил межпроцессное взаимодействие между процессами на персональном компьютере и с удаленными процессами, запущенными на серверах Unix. Брокер объектных запросов предшествовал общей архитектуре посредника объектных запросов (CORBA) и был основан на усовершенствованной архитектуре сетевых систем (ANSA).
+Я реализовал облегченный брокер запросов для Windows, который обеспечил межпроцессное взаимодействие между процессами на персональном компьютере и удаленными процессами, запущенными на серверах Unix. Брокер объектных запросов был основан на усовершенствованной сети сетевых систем (ANSA).
 
-=== Achievements
+=== Достижения
 
-* Developed the inter-process communicatio n for co-located Windows applications using Dynamic Data Exchange (DDE).
+* Разработал межпроцессное взаимодействие для совместных приложений Windows с использованием динамического обмена данными (DDE).
 
-* Developed the client-side communication between the Windows applications and server processes over a serial
-  connection.
+* Разработана клиентская связь между приложениями Windows и серверными процессами через последовательный порт.
+  связь.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | {cpp}
-h| Frameworks:       |
-h| Target Environments:   | Windows 3.x, Unix
-h| Development Tools:     | Visual {cpp}, PVCS
+h| Языки программирования: | {cpp}
+h| Фреймворки:       |
+h| Целевые среды:   | Windows 3.x, Unix
+h| Инструменты разработки:     | Visual {cpp}, PVCS
 |===
 
 [[Polydata]]
