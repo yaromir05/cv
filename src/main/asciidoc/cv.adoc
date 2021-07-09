@@ -38,32 +38,32 @@ image:images/me.jpg[]
 [frame=none,grid=none,options="autowidth"]
 |===
 h| Company       h| Period          h| Role
-| <<Synchronoss>> | Янв 16 - Ноябрь     |  Инженер-программист(Работа по контракту)
-| <<THBS>>        | Jan 14 -  Дек 15  | Руководитель группы портала (Работа по контракту)
-| <<Daon>>        | Sep 13 - Dec 13  |  Инженер-программист (Работа по контракту)
-| <<Realex>>      | Feb 13 - Aug 13  |  Инженер-программист (Работа по контракту)
-| <<Fujitsu2>>    | Jan 13 - Feb 13  |  Инженер-программист (Работа по контракту)
-| <<Newbay>>      | Jan 12 – Oct 12  |  Инженер-программист (Работа по контракту)
-| <<LeasePlan>>   | Jul 11 - Jan 12  |  Инженер-программист (Работа по контракту)
-| <<DnB>>         | May 11 - Jul 11  | Технический архитектор  (Работа по контракту)
-| <<Fujitsu1>>    | Jun 10 – Apr 11  | Архитектор SOA (Работа по контракту)
-| <<Corvil>>      | Oct 09 – Jun 10  |  Инженер-программист (Работа по контракту)
-| <<Vodafone>>    | Feb 09 – Sep 09  | Технический архитектор (Работа по контракту)
-| <<TerraNua>>    | Aug 06 - Jul 08  | Директор / Архитектор
-| <<Fidelity2>>   | Oct 05 - Jul 06  | Консультант по информационной безопасности / Архитектор
-| <<KVH>>         | Oct 03 - Sep 05  | Ведущий системный архитектор
-| <<Fidelity1>>   | Jun 00 - Sep 03  | Главный консультант / Architect
-| <<IFS>>         | Aug 99 - May 00  | Менеджер по разработке программного обеспечения
-| <<ATT2>>        | Oct 98 - Jul 99  | Менеджер по разработке программного обеспечения(Работа по контракту)
-| <<IBM2>>        | Oct 97 - Sep 98  | Руководитель проекта (Работа по контракту)
-| <<Microsoft>>   | Apr 96 - Sep 97  |  Инженер-программис (Работа по контракту)
-| <<Lotus>>       | Sep 95 - Mar 96  |  Инженер-программист (Работа по контракту)
-| <<Lehman>>      | Aug 94 - Aug 95  | Руководитель проекта (Работа по контракту)
-| <<HP>>          | Apr 94 - Jul 94  |  Инженер-программист (Работа по контракту
-| <<IBM1>>        | Oct 93 - Mar 94  | Техническое руководство (Работа по контракту)
-| <<BR>>          | Mar 93 - Sep 93  |  Инженер-программист (Работа по контракту)
-| <<ATT1>>        | Sep 92 - Jan 93  | Инженер-программист (Работа по контракту)
-| <<Polydata>>    | Apr 89 - Aug 92  | Старший инженер-программист
+| <<Synchronoss>> | Январь 16 - Ноябрь     |  Инженер-программист(Работа по контракту)
+| <<THBS>>        | Январь 14 -  Декабрь 15  | Руководитель группы портала (Работа по контракту)
+| <<Daon>>        | Сентябрь 13 - Декабрь 13  |  Инженер-программист (Работа по контракту)
+| <<Realex>>      | Февраль 13 - Август 13  |  Инженер-программист (Работа по контракту)
+| <<Fujitsu2>>    | Январь 13 - Февраль 13  |  Инженер-программист (Работа по контракту)
+| <<Newbay>>      | Январь 12 – Октябрь 12  |  Инженер-программист (Работа по контракту)
+| <<LeasePlan>>   | Июль 11 - Январь 12  |  Инженер-программист (Работа по контракту)
+| <<DnB>>         | Май 11 - Июль 11  | Технический архитектор  (Работа по контракту)
+| <<Fujitsu1>>    | Июнь 10 – Апрель 11  | Архитектор SOA (Работа по контракту)
+| <<Corvil>>      | Октябрь 09 – Июнь 10  |  Инженер-программист (Работа по контракту)
+| <<Vodafone>>    | Февраль 09 – Сентябрь 09  | Технический архитектор (Работа по контракту)
+| <<TerraNua>>    | Август 06 - Июль 08  | Директор / Архитектор
+| <<Fidelity2>>   | Октябрь 05 - Июль 06  | Консультант по информационной безопасности / Архитектор
+| <<KVH>>         | Октябрь 03 - Сентябрь 05  | Ведущий системный архитектор
+| <<Fidelity1>>   | Июнь 00 - Сентябрь 03  | Главный консультант / Architect
+| <<IFS>>         | Август 99 - Май 00  | Менеджер по разработке программного обеспечения
+| <<ATT2>>        | Октябрь 98 - Июль 99  | Менеджер по разработке программного обеспечения(Работа по контракту)
+| <<IBM2>>        | Октябрь 97 - Сентябрь 98  | Руководитель проекта (Работа по контракту)
+| <<Microsoft>>   | Апрель 96 - Сентябрь 97  |  Инженер-программис (Работа по контракту)
+| <<Lotus>>       | Сентябрь 95 - Март 96  |  Инженер-программист (Работа по контракту)
+| <<Lehman>>      | Август 94 - Август 95  | Руководитель проекта (Работа по контракту)
+| <<HP>>          | Апрель 94 - Июль 94  |  Инженер-программист (Работа по контракту
+| <<IBM1>>        | Октябрь 93 - Март 94  | Техническое руководство (Работа по контракту)
+| <<BR>>          | Март 93 - Сентябрь 93  |  Инженер-программист (Работа по контракту)
+| <<ATT1>>        | Сентябрь 92 - Январь 93  | Инженер-программист (Работа по контракту)
+| <<Polydata>>    | Апрель 89 - Август 92  | Старший инженер-программист
 |===
 
 [[Synchronoss]]
@@ -71,194 +71,194 @@ h| Company       h| Period          h| Role
 
 === 
 
-Я работал над несколькими основными службами и многими общими библиотеками пакета продуктов Synchronoss Personal Cloud (https://synchronoss.com/products/cloud/personal-cloud-solution/) для поставщиков мобильных телекоммуникаций, таких как Verizon и BT.
+Я работал над несколькими основными службами и множеством общих библиотек для пакета продуктов Synchronoss Personal Cloud (https://synchronoss.com/products/cloud/personal-cloud-solution/) для поставщиков мобильной связи, таких как Verizon и BT.
 
-* В Digital Vault добавил поддержку  семейного доступа, что позволяет членам семьи делиться квотами и контентом..
+* В Digital Vault добавил поддержку семейного доступа, что позволяет членам семьи делиться квотами и контентом ..
 
-* Collection Manager -- manages collections of media content for photo albums and music playlists
+* Менеджер коллекций - управляет коллекциями медиаконтента для фотоальбомов и музыкальных плейлистов.
 
-* Smart Albums -- uses geo-location and timestamp information in images and videos to automatically create and maintain albums as content is being uploaded to Digital Vault.
+* Смарт-альбомы - использует информацию о географическом местоположении и отметках времени в изображениях и видео для автоматического создания и поддержки альбомов по мере загрузки содержимого в Digital Vault.
 
-* Cloud Share -- provides APIs to share uploaded content with other users.
+* Cloud Share - предоставляет API для обмена загруженным контентом с другими пользователями.
 
-* Message Minder -- provides APIs to back-up, restore and manage call logs and SMS, MMS and RCS messages from users' mobile devices.
+* Message Minder - предоставляет API для резервного копирования, восстановления и управления журналами вызовов, а также сообщениями SMS, MMS и RCS с мобильных устройств пользователей.
 
-* Authentication, Tokens & Provisioning -- provides APIs to provision and authenticate users and to refresh authentication tokens.
+* Аутентификация, токены и обеспечение - предоставляет API для предоставления и аутентификации пользователей и обновления токенов аутентификации..
 
-=== Achievements
+=== Достижения
 
-* Re-designed the processing pipe-line of the Smart Album component to increase through-put and avoid the need for expensive rollback operations.
+* Переработана конвейерная линия обработки компонента Smart Album, чтобы увеличить производительность и избежать необходимости в дорогостоящих операциях отката.
 
-* Компоненты Message Minder и ATP были перенесены в Spring Boot, а реализации JAX-RS обновлены до Jersey 2
+* Компоненты Message Minder и ATP были перенесены в Spring Boot, а реализация JAX-RS обновлены до Jersey 2
 
 * Реализована поддержка сообщений RCS в Message Minder.
 
-* Перепроектировал механизмы сохранения в Message Minder для устранения недостатков дизайна в исходном продукте, которые приводили к повреждению данных в кластерах баз данных Cassandra.
+* Перепроектировал механизм сохранения в Message Minder для устранения недостатков дизайна в исходном продукте, который приводит к повреждению данных в кластерах баз данных Cassandra.
 
-* Added support for family sharing to Digital Vault which allows family members to share quota and content.
+* Добавлена поддержка семейного обмена в Digital Vault, что позволяет членам семьи делиться квотами и контентом.
 
-* Introduced the bill-of-materials concept to ensure consistency in the use of 3rd party libraries across all core services and shared libraries.
+* Введена концепция ведомости материалов для обеспечения единообразия в использовании сторонних библиотек во всех основных сервисах и общих библиотеках.
 
-* Designed and developed the Collection Manager component for managing photo albums and music playlists.
+* Разработал и разработал компонент Collection Manager для управления фотоальбомами и музыкальными плейлистами.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Java, Groovy
-h| Frameworks:            | Spring, Spring Boot, Spring Cloud, Spring Security, JAX-RS (Jersey)
-h| Target Environments:   | Docker, Kubernetes, Cassandra, MariaDB/MySQL, Oracle, Eureka, Memcached, Kafka, RabbitMQ, SwiftMQ, MacOS, Linux
-h| Development Tools:     | Git, Maven, Gradle, JIRA, Bamboo, Confluence, Stash, AsciiDoctor, Docbook, Cucumber, Sonar
+h| Языки программирования: | Java, Groovy
+h| Фреймворки:            | Spring, Spring Boot, Spring Cloud, Spring Security, JAX-RS (Jersey)
+h| Целевые среды:   | Docker, Kubernetes, Cassandra, MariaDB/MySQL, Oracle, Eureka, Memcached, Kafka, RabbitMQ, SwiftMQ, MacOS, Linux
+h| Инструменты разработки:     | Git, Maven, Gradle, JIRA, Bamboo, Confluence, Stash, AsciiDoctor, Docbook, Cucumber, Sonar
 |===
 
 [[THBS]]
 == Torry Harris Business Solutions, Дублин, Ирландия
 
-=== Portal Lead (Contract) | January 2014 - December 2015
+=== Ведущий портал (Контракт) | Январь 2014 - декабрь 2015
 
 Я работал на месте с eir (http://www.eir.ie), руководя разработкой, развертыванием и интеграцией портальных проектов для бизнес-клиентов (https://advantagemanager.eir.ie).
 
-=== Achievements
+=== Достижения
 
-* Руководил развертыванием и интеграцией портала самообслуживания Loki Portals (http://www.leonidsystems.com/products/lokiportals) для услуг VoIP проектов SIP Trunking, Mobile Extension и Hosted Office в eir (http: / /www.eir.ie).
+* Руководил развертыванием и интеграцией портала самообслуживания Loki Portals (http://www.leonidsystems.com/products/lokiportals) для услуг VoIP-проектов Транкинг SIP, расширение для мобильных устройств и размещенный офис в eir (http: / /www.eir.ie).
 
-* Integrated the Loki Portals with the OpenAM single sign-on platform using SAML 2.0.
+* Интеграция порталов Loki с платформой единого входа OpenAM с использованием SAML 2.0.
 
-* Coordinated between the project owners, suppliers and the security, network and server operations teams.
+* Координируется между владельцами проекта, поставщиками и группами безопасности, сети и серверов.
 
-* Identified and ensured the resolution of security and performance issues in the vendor supplied products.
+* Выявлено и обеспечено решение проблем безопасности и производительности в продуктах, поставляемых поставщиком.
 
-* Coordinated with the off-shore development team responsible for customizing the look & feel of Loki Portals to adhere to the eir branding.
+* Координирует работу с командой разработчиков, ответственных за настройку внешнего вида Loki Portals в соответствии с брендом eir.
 
-* Created high- and low-level design documentation for the overall solution.
+* Создана проектная документация верхнего и нижнего уровня для всего решения.
 
-* Part of the RFP team that evaluated and selected converged billing analytics and presentment tools for corporate customers. The selected product was Optimiser from Soft-ex. Afterwards, I was responsible for integrating Optimiser into the eir Business portals.
+* Часть группы RFP, которая оценивала и выбирала инструменты конвергентной биллинговой аналитики и презентации для корпоративных клиентов. Выбранный продукт - Оптимизатор от Soft-ex. Впоследствии я отвечал за интеграцию Optimiser в бизнес-порталы eir.
 
-* Deployed the single sign-on platform (OpenAM) for eir Business Online portals and integrated it with the VoIP self-care and bill analytics solutions.
+* Развернута платформа единого входа (OpenAM) для порталов eir Business Online и интегрирована с решениями самообслуживания VoIP и аналитики счетов.
 
-* Created a web application for use by customers and eir staff to manage access to eir Business Online portal features on behalf of users.
+* Создано веб-приложение для использования клиентами и персоналом eir для управления доступом к функциям портала eir Business Online от имени пользователей.
 
-* Created RESTful and SOAP web services to support user provisioning by internal order processing systems and external vendor platforms.
+* Созданы веб-службы RESTful и SOAP для поддержки предоставления пользователей внутренними системами обработки заказов и платформами внешних поставщиков.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Java, JavaScript, Ruby, PHP
-h| Frameworks:            | Spring, Spring Security, Spring Security SAML, Spring Web Services, Thymeleaf, Smarty Templates, jQuery, AngularJS, Bootstrap, SimpleSAMLphp
-h| Target Environments:   | Redhat Linux, Windows Server, Tomcat, SQL Server, MySQL, OpenAM, OpenDJ, Memcached, Postfix
-h| Development Tools:     | IntelliJ, Git, Maven, Grunt, Jenkins, Chef, Vagrant, Docbook
+h| Языки программирования: | Java, JavaScript, Ruby, PHP
+h| Фреймворки:            | Spring, Spring Security, Spring Security SAML, Spring Web Services, Thymeleaf, Smarty Templates, jQuery, AngularJS, Bootstrap, SimpleSAMLphp
+h| Целевые среды:   | Redhat Linux, Windows Server, Tomcat, SQL Server, MySQL, OpenAM, OpenDJ, Memcached, Postfix
+h| Инструменты разработки:     | IntelliJ, Git, Maven, Grunt, Jenkins, Chef, Vagrant, Docbook
 |===
 
 [[Daon]]
 == Daon,  Дублин, Ирландия
 
-=== Software Engineer (Contract) | September - December 2013
+=== Инженер-программист (Контракт) | Сентябрь - декабрь 2013 г.
 
-I worked independently developing features for the IdentityX product suite (http://www.identityx.com) which uses
-biometric and multi-factor authentication to secure banking transactions on mobile devices.
+Я работал независимо, разрабатывая функции для набора продуктов IdentityX (http://www.identityx.com), который использует
+биометрическая и многофакторная аутентификация для защиты банковских транзакций на мобильных устройствах.
 
-=== Achievements
+=== Достижения
 
-* Migrated the bulk of the IdentityX code-base from a legacy Ant-based build system to a Maven-based one.
+* Перенесена основная часть кода IdentityX из устаревшей системы сборки на основе Ant в систему на основе Maven.
 
-* Implemented the support for RSA SecurID based authentication for IdentityX.
+* Реализована поддержка аутентификации на основе RSA SecurID для IdentityX.
 
-* Introduced the Jasmine test framework to unit test the server-side JavaScript scripts
-  that glued together many of the modules of the IdentityX server component.
-
+* Представлен тестовый фреймворк Jasmine для модульного тестирования серверных скриптов JavaScript.
+  который склеил воедино многие модули серверного компонента IdentityX.
+  \
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Java, JavaScript
-h| Frameworks:            | Spring, Jasmine
-h| Target Environment:    | Redhat Linux, Windows Server, Tomcat, Oracle, SQL Server, MySQL
-h| Development Tools:     | Eclipse, Subversion, Maven, Ant, Jenkins
+h| Языки программирования: | Java, JavaScript
+h| Фреймворки:            | Spring, Jasmine
+h| Целевые среды:    | Redhat Linux, Windows Server, Tomcat, Oracle, SQL Server, MySQL
+h| Инструменты разработки:     | Eclipse, Subversion, Maven, Ant, Jenkins
 |===
 
 [[Realex]]
-== Realex Payments, Dublin, Ireland
+== Realex Payments, Дублин, Ирландия
 
-=== Software Engineer (Contract) | February - August 2013
+=== Инженер-программист (Контракт) | Февраль - август 2013 г.
 
-I was a member of an Agile team that developed and maintained tools such as the Fraud Management module of Real Control 2 and Hosted Payments Page.
+Я был членом группы Agile, которая разрабатывала и поддерживала такие инструменты, как модуль управления мошенничеством Real Control 2 и Hosted Payments Page.
 
-* Real Control 2 is the tool that merchants use to configure security checks for credit chard transactions.
+* Real Control 2 - это инструмент, который продавцы используют для настройки проверок безопасности для транзакций с кредитными картами.
 
-* Hosted Payments Page is a secure check-out solution for merchants that don't want to host their own solution.
+* Страница размещенных платежей - это безопасное решение для оплаты покупок, которые не хотят размещать собственное решение.
 
-=== Achievements
+=== Достижения
 
-* Completed the Fraud Management module of RealControl 2.
+* Завершил модуль управления мошенничеством RealControl 2.
 
-* Designed and implemented the white-labeling solution for Hosted Payments Page using Apache Jackrabbit and Thymeleaf.
+* Разработал и внедрил решение white-label для страницы размещенных платежей с использованием Apache Jackrabbit и Thymeleaf.
 
-* Designed and implemented the integration with alternative payment methods (e.g. PayPal) and exchange rate quoting using Spring Integration.
+* Разработана и реализована интеграция с альтернативными способами оплаты (например, PayPal) и котировка обменного курса с использованием Spring Integration.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Java, JavaScript
-h| Frameworks:            | Spring, Spring Security, Spring Integration, Thymeleaf, Apache Jackrabbit, myBatis,
-h| Target Environments:   | Redhat Linux, SpringSource tcServer, SQL Server, Memcached
-h| Development Tools:     | Eclipse, Maven
+h| Языки программирования: | Java, JavaScript
+h| Фреймворки:            | Spring, Spring Security, Spring Integration, Thymeleaf, Apache Jackrabbit, myBatis,
+h| Целевые среды:   | Redhat Linux, SpringSource tcServer, SQL Server, Memcached
+h| Инструменты разработки:     | Eclipse, Maven
 |===
 
 [[Fujitsu2]]
 == Fujitsu,  Дублин, Ирландия
 
-=== Software Engineer (Contract) | January - February 2013
+=== Инженер-программист (Контракт) | Январь - февраль 2013 г.
 
-Implemented document management features of Road Transport Operator Licencing application using OpenCMIS and Alfresco.
+Реализованы функции управления документами приложения лицензирования оператора автомобильного транспорта с использованием OpenCMIS и Alfresco.
 
 [[Newbay]]
-== Newbay, Dublin, Ireland
+== Newbay, Дублин, Ирландия
 
-=== Software Engineer (Contract) | January - October 2012
+=== Инженер-программист (Контракт) | Январь - октябрь 2012 г.
 
-I was a member of an Agile team that developed and maintained Newbay's SyncDrive product. SyncDrive is a white label application offered to mobile phone operators to allow users synchronize content between their PCs, mobile devices and cloud based storage.
+Я был членом группы Agile, которая разрабатывала и поддерживала продукт SyncDrive Newbay. SyncDrive - это приложение с белой этикеткой, предлагаемое операторам мобильных телефонов, позволяющее пользователям синхронизировать контент между своими ПК, мобильными устройствами и облачным хранилищем.
 
-=== Achievements
+=== Достижения
 
-* Resolved high priority defects in order to complete the first version of SyncDrive for Mac OS X and deliver on time to the operator.
+* Устранены высокоприоритетные дефекты для завершения первой версии SyncDrive для Mac OS X и своевременной доставки оператору.
 
-* Extensively refactored the code-base to separate presentation, business logic and data concerns. This was done primarily to eliminate inherent race conditions in the synchronization process. I had the secondary goal of making it possible to write unit tests.
+* Значительно переработана база кода для разделения проблем представления, бизнес-логики и данных. Это было сделано в первую очередь для устранения неотъемлемых состояний гонки в процессе синхронизации. У меня была вторичная цель - дать возможность писать модульные тесты.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Objective-C
-h| Frameworks:            | CoreData, Cocoa, OSXFUSE, OCMock, Growl
-h| Target Environments:   | MacOS X 10.6+
-h| Development Tools:     | XCode 4, Perforce, JIRA, Confluence, Bamboo, Nexus, Maven
+h| Языки программирования: | Objective-C
+h| Фреймворки:            | CoreData, Cocoa, OSXFUSE, OCMock, Growl
+h| Целевые среды:   | MacOS X 10.6+
+h| Инструменты  разработки:     | XCode 4, Perforce, JIRA, Confluence, Bamboo, Nexus, Maven
 |===
 
 [[LeasePlan]]
 == LeasePlan,  Дублин, Ирландия
 
-=== Software Engineer (Contract) | July 2011 - January 2012
+=== Инженер-программист (Контракт) | Июль 2011 - январь 2012
 
-I was a member of an Agile team that re-engineered LeasePlan’s Internet Quotation web application to improve the user experience and address security concerns raised by external auditors.
+Я был членом группы Agile, которая модернизировала веб-приложение LeasePlan Internet Quotation, чтобы улучшить взаимодействие с пользователем и решить проблемы безопасности, поднятые внешними аудиторами.
 
-=== Achievements
+=== Достижения
 
-* Introduced Selenium integration tests into the automated Maven build
+* Добавлены интеграционные тесты Selenium в автоматизированную сборку Maven.
 
-* Introduced JIRA and GreenHopper for bug tracking and task management
+* Представлены JIRA и GreenHopper для отслеживания ошибок и управления задачами.
 
-* Migrated code base from Spring 2 to Spring 3
+* База кода перенесена со Spring 2 на Spring 3.
 
-* Implemented support for dynamic look and feel using Apache Jackrabbit as the content repository to allow individual business units and brokers have distinct look and feels
+* Реализована поддержка динамического внешнего вида с использованием Apache Jackrabbit в качестве репозитория контента, чтобы отдельные бизнес-подразделения и брокеры имели отличный внешний вид.
 
-* Addressed performance issues when proxying remote content (car images) provided by 3rd party systems by introducing caching and image scaling
+* Устранены проблемы с производительностью при проксировании удаленного контента (изображений автомобилей), предоставленного сторонними системами, путем введения кэширования и масштабирования изображений.
 
 [%autowidth,frame=none,grid=none]
 |===
-h| Programming Languages: | Java, Javascript
-h| Frameworks:            | Spring, Spring Security, Struts 2, SQLMaps, Apache Jackrabbit,
-h| Target Environments:   | iSeries, WebShphere, WebSphereMQ,
-h| Development Tools:     | Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
+h| Языки программирования: | Java, Javascript
+h| Фрейворки:            | Spring, Spring Security, Struts 2, SQLMaps, Apache Jackrabbit,
+h| Целевые среды:   | iSeries, WebShphere, WebSphereMQ,
+h| Инструменты разработки:     | Maven, Subversion, JIRA, Greenhopper, Artifactory, Selenium, Eclipse
 |===
 
 [[DnB]]
 == D&B,  Дублин, Ирландия
 
-=== Technical Architect (Contract) | May 2011 – July 2011
+=== Технический архитектор (Контракт) | Май 2011 г. - июль 2011 г.
 
-I was taken on by D&B to be an architect on user interface and input handler components of their new Data Supply Chain infrastructure. The Data Supply Chain infrastructure is responsible for processing all inbound data used by D&B to accumulate business intelligence, derive linkage information and calculate credit scores. The project has not progressed past the requirements gathering phase when I left.
+D&B взяла меня на роль архитектора пользовательского интерфейса и компонентов обработчика ввода их новой инфраструктуры Data Supply Chain. Инфраструктура цепочки поставок данных отвечает за обработку всех входящих данных, используемых D&B для сбора бизнес-аналитики, получения информации о связях и расчета кредитных баллов. Когда я ушел, проект не продвинулся дальше этапа сбора требований.
 
 [[Fujitsu1]]
 == Fujitsu, Дублин, Ирландия
@@ -339,7 +339,7 @@ h| Инструменты разработки:     | Maven, Hudson, Archiva, Ec
 [[TerraNua]]
 == TerraNua, Дублин, Ирландия & Тунис, Тунис
 
-=== Director / Architect | Август 2006 – Июль 2008
+=== Директор / Архитектор | Август 2006 – Июль 2008
 
 В основном я отвечал за разработку архитектуры и контроль за реализацией MyComplianceOffice (http://www.mycomplianceoffice.com/). MyComplianceOffice - это хостинговое / многопользовательское решение «Программное обеспечение как услуга» (SaaS), которое позволяет зарегистрированным в США инвестиционным консультантам и хедж-фондам управлять своими бизнес-процессами, связанными с соблюдением нормативных требований. MyComplianceOffice был построен с использованием сервера портала, технологий рабочего процесса и управления документами.
 
@@ -372,15 +372,15 @@ h| Инструменты разработки:     | Maven, Continuum, Archiva,
 [[Fidelity2]]
 == Fidelity Investments, Дублин, Ирландия
 
-=== Information Security Consultant / Architect | October 2005 - July 2006
+=== Консультант по информационной безопасности / Архитектор | Октябрь 2005 г. - июль 2006 г.
 
 Я был архитектором, поддерживающим группы, ответственные за разработку и поддержку корпоративной системы автоматического предоставления доступа, управления рисками и отчетности Fidelity Investments. Основными компонентами были приложение для внутренней сети для создания и обработки запросов доступа и механизм рабочего процесса, который интегрировал различные сторонние решения и автоматизирует процессы предоставления. Приложение для внутренней сети было разработано с использованием ASP.NET, а механизм рабочего процесса был реализован с использованием C # и механизма правил NxBRE.
 
-=== Achievements
+=== Достижения
 
 * Введена разработка через тестирование (TDD) для группы автоматического обеспечения.
 
-* РазработаЛ и внедрил новый механизм автоматизации для обработки запросов доступа пользователей.\
+* Разработал и внедрил новый механизм автоматизации для обработки запросов доступа пользователей.\
 
 [%autowidth,frame=none,grid=none]
 |===
@@ -486,7 +486,7 @@ h| Development Tools:     | Visual {cpp}, Visual SourceSafe
 [[ATT2]]
 == AT&T Labs, Реддич, Великобритания
 
-=== Технический руководитель (контракт) | Октябрь 1998 - Июль 1999
+=== Технический руководитель (Контракт) | Октябрь 1998 - Июль 1999
 
 Я реализовал облегченный брокер запросов для Windows, который обеспечил межпроцессное взаимодействие между процессами на персональном компьютере и удаленными процессами, запущенными на серверах Unix. Брокер объектных запросов был основан на усовершенствованной сети сетевых систем (ANSA).
 
@@ -509,7 +509,7 @@ h| Инструменты разработки:     | Visual {cpp}, Sun {cpp}, C
 [[IBM2]]
 == IBM,   Дублин,   Ирландия
 
-=== Руководитель проекта (контракт), Октябрь 1997 - Октябрь 1998
+=== Руководитель проекта (Контракт), Октябрь 1997 - Октябрь 1998
 
 Я работал с Центром разработки страховых решений, разрабатывая приложение для управления взаимоотношениями с клиентами для страховых компаний под названием Client Information & Integration System (CIIS).
 
@@ -530,7 +530,7 @@ h| Инструменты разработки:     | Visual {cpp}, Visual Sourc
 [[Microsoft]]
 == Microsoft, Сиэттл, штат Вашингтон, США
 
-=== Разработчик программного обеспечения (подрядчик) | Апрель 1996 г. - сентябрь 1997 г.
+=== Разработчик программного обеспечения (Подрядчик) | Апрель 1996 г. - сентябрь 1997 г.
 
 Я работал в команде инструментов инфраструктуры и автоматизации. Я отвечал за разработку агентов, которые устанавливались на файловые серверы, базы данных, электронную почту, веб-серверы и прокси-серверы для сбора показателей использования. Эти показатели использовались для прогнозирования будущих потребностей в дисковом и серверном пространстве. Агенты были установлены на более чем 3000 серверов по всему миру.
 
@@ -545,7 +545,7 @@ h| Инструменты разработки :     | Visual {cpp}, Visual Sour
 [[Lotus]]
 == Lotus, Дублин, Ирландия
 
-=== Инженер-программист (контракт) | Сентябрь 1995 г. - март 1996 г.
+=== Инженер-программист (Контракт) | Сентябрь 1995 г. - март 1996 г.
 
 Я работал в группе Global QA, которая разработала инструменты тестирования, автоматизации и локализации, используемые для тестирования и локализации Lotus.
 офисный пакет под названием Lotus SmartSuite.
@@ -567,7 +567,7 @@ h| Инструменты разработки:     | Visual {cpp}, PVCS, Lotus 
 [[Lehman]]
 == Lehman Brothers, Лондон, Великобритания
 
-=== Руководитель проекта (контракт), Август 1994 – Август 1995
+=== Руководитель проекта (Контракт), Август 1994 – Август 1995
 
 Я разработал и поддерживал приложения для поддержки отделов закупок, доставки товаров и бухгалтерского учета Lehman Brothers в Лондоне.
 
@@ -590,7 +590,7 @@ h| Инструменты разработки:     | Borland {cpp}, {csetpp}, P
 [[HP]]
 == Hewlett-Packard, Гренобль, Франция
 
-=== Инженер-программист (контракт) | Апрель 1994 - Июль 1994
+=== Инженер-программист (Контракт) | Апрель 1994 - Июль 1994
 
 Я был частью небольшой команды, которая портировала продукт под названием Omnishare для работы на стандартном IBM-совместимом ПК. Omnishare был инструментом конференц-связи, который позволял пользователям обмениваться документами и комментировать их, используя одну и ту же телефонную линию для передачи голоса и данных. Первоначально он был разработан для работы на нестандартном оборудовании.
 
@@ -605,7 +605,7 @@ h| Инструменты разриаботки:     | Visual {cpp}, Visual Sou
 [[IBM1]]
 == IBM, Дублин, Ирландия
 
-=== Технический руководитель (подрядчик) | Октябрь 1993 – Март 1994
+=== Технический руководитель (Подрядчик) | Октябрь 1993 – Март 1994
 
 Я консультировал команду, разрабатывающую инструмент хранения данных под названием DataRefresher. Когда я присоединился к команде, DataRefresher не соответствовал критериям приемлемости, установленным командой QA, из-за значительных утечек памяти, условий гонки и проблем межпроцессного взаимодействия.
 
@@ -626,7 +626,7 @@ h| Инструменты разработки:     | {csetpp}
 [[BR]]
 === British Rail, Дарлингтон, Великобритания
 
-===  Инженер по программному обеспечению (к онтракт) | Март - сентябрь 1993 г.
+===  Инженер по программному обеспечению (Контракт) | Март - сентябрь 1993 г.
 
 Я был частью команды, которая разработала клиент-серверное приложение под названием Advanced Transmanche Operations Management System (ATOMS). ATOMS - это система бронирования пассажиров и управления подвижным составом, разработанная для British Rail, SNCF France и SNCF Belgium для обслуживания рейсов, проходящих через Евротуннель.
 
@@ -644,7 +644,7 @@ h| Инструменты разработки:     | Visual {cpp}, PVCS
 [[ATT1]]
 == AT&T Istel, Реддич, Великобритания
 
-=== Инжинер-программист (контракт) | Сентябрь 1992 – Январь 1993
+=== Инжинер-программист (Контракт) | Сентябрь 1992 – Январь 1993
 
 Я реализовал облегченный брокер запросов для Windows, который обеспечил межпроцессное взаимодействие между процессами на персональном компьютере и удаленными процессами, запущенными на серверах Unix. Брокер объектных запросов был основан на усовершенствованной сети сетевых систем (ANSA).
 
